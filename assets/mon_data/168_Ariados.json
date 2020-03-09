@@ -1,0 +1,11 @@
+{
+	"dex_number": 168,
+	"german_name": "Ariados",
+	"english_name": "Ariados",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Insomnia", "Hexaplaga", "Superschütze"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [70, 90, 70, 60, 70, 40]
+}

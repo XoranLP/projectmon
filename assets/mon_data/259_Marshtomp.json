@@ -1,0 +1,11 @@
+{
+	"dex_number": 259,
+	"german_name": "Moorabbel",
+	"english_name": "Marshtomp",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Sturzbach", "Feuchtigkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [70, 85, 70, 60, 70, 50]
+}

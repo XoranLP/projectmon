@@ -1,0 +1,11 @@
+{
+	"dex_number": 77,
+	"german_name": "Ponita",
+	"english_name": "Ponyta",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Angsthase", "Feuerfänger", "Flammkörper", "Angsthase", "(Galar)", "Pastellhülle", "(Galar)", "Vorahnung", "(VF Galar)"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [50, 85, 55, 65, 65, 90]
+}

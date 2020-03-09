@@ -1,0 +1,11 @@
+{
+	"dex_number": 131,
+	"german_name": "Lapras",
+	"english_name": "Lapras",
+	"types": ["WATER", "ICE"],
+	"Fähigkeiten": ["H2O-Absorber", "Panzerhaut", "Hydration"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [130, 85, 80, 85, 95, 60]
+}

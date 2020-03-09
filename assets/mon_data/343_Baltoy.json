@@ -1,0 +1,11 @@
+{
+	"dex_number": 343,
+	"german_name": "Puppance",
+	"english_name": "Baltoy",
+	"types": ["GROUND", "PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [40, 40, 55, 40, 70, 55]
+}

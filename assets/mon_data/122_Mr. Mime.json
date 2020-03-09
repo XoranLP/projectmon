@@ -1,0 +1,11 @@
+{
+	"dex_number": 122,
+	"german_name": "Pantimos",
+	"english_name": "Mr. Mime",
+	"types": ["PSYCHIC", "FAIRY"],
+	"Fähigkeiten": ["Lärmschutz", "Filter", "Techniker", "Munterkeit", "(Galar)", "Hemmungslos", "(Galar)", "Eishaut", "(VF Galar)"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [40, 45, 65, 100, 120, 90]
+}

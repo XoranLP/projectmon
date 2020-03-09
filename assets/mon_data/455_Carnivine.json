@@ -1,0 +1,11 @@
+{
+	"dex_number": 455,
+	"german_name": "Venuflibis",
+	"english_name": "Carnivine",
+	"types": ["GRASS"],
+	"Fähigkeiten": "",
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [74, 100, 72, 90, 72, 46]
+}

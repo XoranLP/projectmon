@@ -1,0 +1,11 @@
+{
+	"dex_number": 172,
+	"german_name": "Pichu",
+	"english_name": "Pichu",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Blitzfänger"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [20, 40, 15, 35, 35, 60]
+}

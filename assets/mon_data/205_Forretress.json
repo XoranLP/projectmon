@@ -1,0 +1,11 @@
+{
+	"dex_number": 205,
+	"german_name": "Forstellka",
+	"english_name": "Forretress",
+	"types": ["BUG", "STEEL"],
+	"Fähigkeiten": ["Robustheit", "Partikelschutz"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [75, 90, 140, 60, 60, 40]
+}

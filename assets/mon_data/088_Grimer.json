@@ -1,0 +1,11 @@
+{
+	"dex_number": 88,
+	"german_name": "Sleima",
+	"english_name": "Grimer",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Duftnote", "Klebekörper", "Giftgriff", "Giftgriff", "(Alola)", "Völlerei", "(Alola)", "Chemiekraft", "(VF Alola)"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [80, 80, 50, 40, 50, 25]
+}

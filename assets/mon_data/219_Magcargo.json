@@ -1,0 +1,11 @@
+{
+	"dex_number": 219,
+	"german_name": "Magcargo",
+	"english_name": "Magcargo",
+	"types": ["FIRE", "ROCK"],
+	"Fähigkeiten": ["Magmapanzer", "Flammkörper", "Bruchrüstung"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [60, 50, 120, 90, 80, 30]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 364,
+	"german_name": "Seejong",
+	"english_name": "Sealeo",
+	"types": ["ICE", "WATER"],
+	"Fähigkeiten": ["Speckschicht", "Eishaut", "Dösigkeit"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [90, 60, 70, 75, 70, 45]
+}

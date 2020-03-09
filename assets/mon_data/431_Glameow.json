@@ -1,0 +1,11 @@
+{
+	"dex_number": 431,
+	"german_name": "Charmian",
+	"english_name": "Glameow",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Flexibilität", "Tempomacher", "Adlerauge"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [49, 55, 42, 42, 37, 85]
+}

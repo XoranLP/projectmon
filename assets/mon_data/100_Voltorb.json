@@ -1,0 +1,11 @@
+{
+	"dex_number": 100,
+	"german_name": "Voltobal",
+	"english_name": "Voltorb",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Lärmschutz", "Statik", "Finalschlag"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [40, 30, 50, 55, 55, 100]
+}

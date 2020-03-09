@@ -1,0 +1,11 @@
+{
+	"dex_number": 332,
+	"german_name": "Noktuska",
+	"english_name": "Cacturne",
+	"types": ["GRASS", "DARK"],
+	"Fähigkeiten": ["Sandschleier", "H2O-Absorber"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["PLANT", "HUMANOID"],
+	"Stats": [70, 115, 60, 115, 60, 55]
+}

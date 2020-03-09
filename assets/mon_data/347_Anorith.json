@@ -1,0 +1,11 @@
+{
+	"dex_number": 347,
+	"german_name": "Anorith",
+	"english_name": "Anorith",
+	"types": ["ROCK", "BUG"],
+	"Fähigkeiten": ["Kampfpanzer", "Wassertempo"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [45, 95, 50, 40, 50, 75]
+}

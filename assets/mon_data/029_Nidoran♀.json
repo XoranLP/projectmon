@@ -1,0 +1,11 @@
+{
+	"dex_number": 29,
+	"german_name": "Nidoran♀",
+	"english_name": "Nidoran♀",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Giftdorn", "Rivalität", "Übereifer"],
+	"Fangrate": 235,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [55, 47, 52, 40, 40, 41]
+}

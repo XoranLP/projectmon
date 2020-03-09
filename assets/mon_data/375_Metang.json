@@ -1,0 +1,11 @@
+{
+	"dex_number": 375,
+	"german_name": "Metang",
+	"english_name": "Metang",
+	"types": ["STEEL", "PSYCHIC"],
+	"Fähigkeiten": ["Neutraltorso", "Leichtmetall"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [60, 75, 100, 55, 80, 50]
+}

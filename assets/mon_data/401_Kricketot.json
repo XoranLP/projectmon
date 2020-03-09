@@ -1,0 +1,11 @@
+{
+	"dex_number": 401,
+	"german_name": "Zirpurze",
+	"english_name": "Kricketot",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Expidermis", "Angsthase"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [37, 25, 41, 25, 41, 25]
+}

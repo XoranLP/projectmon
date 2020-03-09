@@ -1,0 +1,11 @@
+{
+	"dex_number": 341,
+	"german_name": "Krebscorps",
+	"english_name": "Corphish",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Scherenmacht", "Panzerhaut", "Anpassung"],
+	"Fangrate": 205,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "WATER3"],
+	"Stats": [43, 80, 65, 50, 35, 35]
+}

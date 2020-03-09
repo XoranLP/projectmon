@@ -1,0 +1,11 @@
+{
+	"dex_number": 430,
+	"german_name": "Kramshef",
+	"english_name": "Honchkrow",
+	"types": ["DARK", "FLYING"],
+	"Fähigkeiten": ["Insomnia", "Glückspilz", "Hochmut"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [100, 125, 52, 105, 52, 71]
+}

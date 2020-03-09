@@ -1,0 +1,11 @@
+{
+	"dex_number": 189,
+	"german_name": "Papungha",
+	"english_name": "Jumpluff",
+	"types": ["GRASS", "FLYING"],
+	"Fähigkeiten": ["Chlorophyll", "Floraschild", "Schwebedurch"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [75, 55, 70, 55, 95, 110]
+}

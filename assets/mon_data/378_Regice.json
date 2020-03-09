@@ -1,0 +1,11 @@
+{
+	"dex_number": 378,
+	"german_name": "Regice",
+	"english_name": "Regice",
+	"types": ["ICE"],
+	"Fähigkeiten": ["Neutraltorso", "Eishaut"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [80, 50, 100, 100, 200, 50]
+}

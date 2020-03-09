@@ -1,0 +1,11 @@
+{
+	"dex_number": 338,
+	"german_name": "Sonnfel",
+	"english_name": "Solrock",
+	"types": ["ROCK", "PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [90, 95, 85, 55, 65, 70]
+}

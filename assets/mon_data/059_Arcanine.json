@@ -1,0 +1,11 @@
+{
+	"dex_number": 59,
+	"german_name": "Arkani",
+	"english_name": "Arcanine",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Bedroher", "Feuerfänger", "Redlichkeit"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [90, 110, 80, 100, 80, 95]
+}

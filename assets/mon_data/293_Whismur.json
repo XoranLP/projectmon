@@ -1,0 +1,11 @@
+{
+	"dex_number": 293,
+	"german_name": "Flurmel",
+	"english_name": "Whismur",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Lärmschutz", "Hasenfuß"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [64, 51, 23, 51, 23, 28]
+}

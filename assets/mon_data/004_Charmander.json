@@ -1,0 +1,11 @@
+{
+	"dex_number": 4,
+	"german_name": "Glumanda",
+	"english_name": "Charmander",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Großbrand", "Solarkraft"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [39, 52, 43, 60, 50, 65]
+}

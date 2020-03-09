@@ -1,0 +1,11 @@
+{
+	"dex_number": 120,
+	"german_name": "Sterndu",
+	"english_name": "Staryu",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Erleuchtung", "Innere Kraft", "Analyse"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [30, 45, 55, 70, 55, 85]
+}

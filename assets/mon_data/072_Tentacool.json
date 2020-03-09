@@ -1,0 +1,11 @@
+{
+	"dex_number": 72,
+	"german_name": "Tentacha",
+	"english_name": "Tentacool",
+	"types": ["WATER", "POISON"],
+	"Fähigkeiten": ["Neutraltorso", "Kloakensoße", "Regengenuss"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [40, 40, 35, 50, 100, 70]
+}

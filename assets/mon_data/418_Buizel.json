@@ -1,0 +1,11 @@
+{
+	"dex_number": 418,
+	"german_name": "Bamelin",
+	"english_name": "Buizel",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Aquahülle"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [55, 65, 35, 60, 30, 85]
+}

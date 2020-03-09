@@ -1,0 +1,11 @@
+{
+	"dex_number": 460,
+	"german_name": "Rexblisar",
+	"english_name": "Abomasnow",
+	"types": ["GRASS", "ICE"],
+	"Fähigkeiten": ["Hagelalarm", "Lärmschutz", "Hagelalarm", "Mega"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [90, 92, 75, 92, 85, 60]
+}

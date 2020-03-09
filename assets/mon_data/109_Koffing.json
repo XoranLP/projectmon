@@ -1,0 +1,11 @@
+{
+	"dex_number": 109,
+	"german_name": "Smogon",
+	"english_name": "Koffing",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Schwebe", "Reaktionsgas", "Duftnote"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [40, 65, 95, 60, 45, 35]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 84,
+	"german_name": "Dodu",
+	"english_name": "Doduo",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Angsthase", "Frühwecker", "Fußangel"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [35, 85, 45, 35, 35, 75]
+}

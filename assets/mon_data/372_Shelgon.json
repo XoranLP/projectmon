@@ -1,0 +1,11 @@
+{
+	"dex_number": 372,
+	"german_name": "Draschel",
+	"english_name": "Shelgon",
+	"types": ["DRAGON"],
+	"Fähigkeiten": ["Steinhaupt", "Partikelschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["DRAGON"],
+	"Stats": [65, 95, 100, 60, 50, 50]
+}

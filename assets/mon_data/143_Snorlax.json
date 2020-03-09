@@ -1,0 +1,11 @@
+{
+	"dex_number": 143,
+	"german_name": "Relaxo",
+	"english_name": "Snorlax",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Immunität", "Speckschicht", "Völlerei"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [160, 110, 65, 65, 110, 30]
+}

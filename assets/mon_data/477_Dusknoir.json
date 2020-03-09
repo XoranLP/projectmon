@@ -1,0 +1,11 @@
+{
+	"dex_number": 477,
+	"german_name": "Zwirrfinst",
+	"english_name": "Dusknoir",
+	"types": ["GHOST"],
+	"Fähigkeiten": ["Erzwinger", "Schnüffler"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [45, 100, 135, 65, 135, 45]
+}

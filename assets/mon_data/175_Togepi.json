@@ -1,0 +1,11 @@
+{
+	"dex_number": 175,
+	"german_name": "Togepi",
+	"english_name": "Togepi",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Übereifer", "Edelmut", "Glückspilz"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [35, 20, 65, 40, 65, 20]
+}

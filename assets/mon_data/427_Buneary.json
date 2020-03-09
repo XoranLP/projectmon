@@ -1,0 +1,11 @@
+{
+	"dex_number": 427,
+	"german_name": "Haspiror",
+	"english_name": "Buneary",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Tollpatsch", "Flexibilität"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [55, 66, 44, 44, 56, 85]
+}

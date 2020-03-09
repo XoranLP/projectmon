@@ -1,0 +1,11 @@
+{
+	"dex_number": 327,
+	"german_name": "Pandir",
+	"english_name": "Spinda",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Tempomacher", "Fußangel", "Umkehrung"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID", "FIELD"],
+	"Stats": [60, 60, 60, 60, 60, 60]
+}

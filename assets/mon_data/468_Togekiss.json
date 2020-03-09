@@ -1,0 +1,11 @@
+{
+	"dex_number": 468,
+	"german_name": "Togekiss",
+	"english_name": "Togekiss",
+	"types": ["FAIRY", "FLYING"],
+	"Fähigkeiten": ["Übereifer", "Edelmut", "Glückspilz"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING", "FAIRY"],
+	"Stats": [85, 50, 95, 120, 115, 80]
+}

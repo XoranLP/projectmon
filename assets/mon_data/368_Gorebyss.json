@@ -1,0 +1,11 @@
+{
+	"dex_number": 368,
+	"german_name": "Saganabyss",
+	"english_name": "Gorebyss",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Hydration"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [55, 84, 105, 114, 75, 52]
+}

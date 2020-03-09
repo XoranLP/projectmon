@@ -1,0 +1,11 @@
+{
+	"dex_number": 23,
+	"german_name": "Rettan",
+	"english_name": "Ekans",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Bedroher", "Expidermis", "Anspannung"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "DRAGON"],
+	"Stats": [35, 60, 44, 40, 54, 55]
+}

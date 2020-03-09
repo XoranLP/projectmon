@@ -1,0 +1,11 @@
+{
+	"dex_number": 22,
+	"german_name": "Ibitak",
+	"english_name": "Fearow",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Superschütze"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [65, 90, 65, 61, 61, 100]
+}

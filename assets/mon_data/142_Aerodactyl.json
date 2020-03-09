@@ -1,0 +1,11 @@
+{
+	"dex_number": 142,
+	"german_name": "Aerodactyl",
+	"english_name": "Aerodactyl",
+	"types": ["ROCK", "FLYING"],
+	"Fähigkeiten": ["Steinhaupt", "Erzwinger", "Anspannung", "Krallenwucht", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [80, 105, 65, 60, 75, 130]
+}

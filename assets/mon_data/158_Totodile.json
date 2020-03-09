@@ -1,0 +1,11 @@
+{
+	"dex_number": 158,
+	"german_name": "Karnimani",
+	"english_name": "Totodile",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [50, 65, 64, 44, 48, 43]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 283,
+	"german_name": "Gehweiher",
+	"english_name": "Surskit",
+	"types": ["BUG", "WATER"],
+	"Fähigkeiten": ["Wassertempo", "Regengenuss"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG", "WATER1"],
+	"Stats": [40, 30, 32, 50, 52, 65]
+}

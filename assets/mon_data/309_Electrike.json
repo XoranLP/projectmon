@@ -1,0 +1,11 @@
+{
+	"dex_number": 309,
+	"german_name": "Frizelbliz",
+	"english_name": "Electrike",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Blitzfänger", "Minus"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [40, 45, 40, 65, 40, 65]
+}

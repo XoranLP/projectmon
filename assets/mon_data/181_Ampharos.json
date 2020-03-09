@@ -1,0 +1,11 @@
+{
+	"dex_number": 181,
+	"german_name": "Ampharos",
+	"english_name": "Ampharos",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Plus", "Überbrückung", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [90, 75, 85, 115, 90, 55]
+}

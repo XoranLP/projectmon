@@ -1,0 +1,11 @@
+{
+	"dex_number": 357,
+	"german_name": "Tropius",
+	"english_name": "Tropius",
+	"types": ["GRASS", "FLYING"],
+	"Fähigkeiten": ["Chlorophyll", "Solarkraft", "Reiche Ernte"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [99, 68, 83, 72, 87, 51]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 385,
+	"german_name": "Jirachi",
+	"english_name": "Jirachi",
+	"types": ["STEEL", "PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 100, 100, 100, 100, 100]
+}

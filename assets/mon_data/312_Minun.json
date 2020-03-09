@@ -1,0 +1,11 @@
+{
+	"dex_number": 312,
+	"german_name": "Minun",
+	"english_name": "Minun",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Minus", "Voltabsorber"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [60, 40, 50, 75, 85, 95]
+}

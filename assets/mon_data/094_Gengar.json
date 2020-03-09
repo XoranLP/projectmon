@@ -1,0 +1,11 @@
+{
+	"dex_number": 94,
+	"german_name": "Gengar",
+	"english_name": "Gengar",
+	"types": ["GHOST", "POISON"],
+	"Fähigkeiten": ["Schwebe ", "(3. bis 6. Gen.)", "Tastfluch", "(ab ", "7. Gen.", "Wegsperre", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [60, 65, 60, 130, 75, 110]
+}

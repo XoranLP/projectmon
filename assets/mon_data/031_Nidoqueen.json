@@ -1,0 +1,11 @@
+{
+	"dex_number": 31,
+	"german_name": "Nidoqueen",
+	"english_name": "Nidoqueen",
+	"types": ["POISON", "GROUND"],
+	"Fähigkeiten": ["Giftdorn", "Rivalität", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 92, 87, 75, 85, 76]
+}

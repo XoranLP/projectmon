@@ -1,0 +1,11 @@
+{
+	"dex_number": 344,
+	"german_name": "Lepumentas",
+	"english_name": "Claydol",
+	"types": ["GROUND", "PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [60, 70, 105, 70, 120, 75]
+}

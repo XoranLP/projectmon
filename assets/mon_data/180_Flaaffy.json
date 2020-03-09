@@ -1,0 +1,11 @@
+{
+	"dex_number": 180,
+	"german_name": "Waaty",
+	"english_name": "Flaaffy",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Plus"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [70, 55, 55, 80, 60, 45]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 403,
+	"german_name": "Sheinux",
+	"english_name": "Shinx",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Rivalität", "Bedroher", "Adrenalin"],
+	"Fangrate": 235,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [45, 65, 34, 40, 34, 45]
+}

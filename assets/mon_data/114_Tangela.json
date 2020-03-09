@@ -1,0 +1,11 @@
+{
+	"dex_number": 114,
+	"german_name": "Tangela",
+	"english_name": "Tangela",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Floraschild", "Belebekraft"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [65, 55, 115, 100, 40, 60]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 26,
+	"german_name": "Raichu",
+	"english_name": "Raichu",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Blitzfänger", "Surf-Schweif", "(Alola)"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [60, 90, 55, 90, 80, 110]
+}

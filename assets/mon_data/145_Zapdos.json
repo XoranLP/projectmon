@@ -1,0 +1,11 @@
+{
+	"dex_number": 145,
+	"german_name": "Zapdos",
+	"english_name": "Zapdos",
+	"types": ["ELECTRIC", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Statik", "Blitzfänger"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 90, 85, 125, 90, 100]
+}

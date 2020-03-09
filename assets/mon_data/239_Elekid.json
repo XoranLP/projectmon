@@ -1,0 +1,11 @@
+{
+	"dex_number": 239,
+	"german_name": "Elekid",
+	"english_name": "Elekid",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Munterkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [45, 63, 37, 65, 55, 95]
+}

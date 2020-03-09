@@ -1,0 +1,11 @@
+{
+	"dex_number": 47,
+	"german_name": "Parasek",
+	"english_name": "Parasect",
+	"types": ["BUG", "GRASS"],
+	"Fähigkeiten": ["Sporenwirt", "Trockenheit", "Feuchtigkeit"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "BUG"],
+	"Stats": [60, 95, 80, 60, 80, 30]
+}

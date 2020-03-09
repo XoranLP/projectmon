@@ -1,0 +1,11 @@
+{
+	"dex_number": 167,
+	"german_name": "Webarak",
+	"english_name": "Spinarak",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Insomnia", "Hexaplaga", "Superschütze"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [40, 60, 40, 40, 40, 30]
+}

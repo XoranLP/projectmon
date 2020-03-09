@@ -1,0 +1,11 @@
+{
+	"dex_number": 298,
+	"german_name": "Azurill",
+	"english_name": "Azurill",
+	"types": ["NORMAL", "FAIRY"],
+	"Fähigkeiten": ["Speckschicht", "Kraftkoloss", "Vegetarier"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [50, 20, 40, 20, 40, 20]
+}

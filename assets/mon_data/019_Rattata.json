@@ -1,0 +1,11 @@
+{
+	"dex_number": 19,
+	"german_name": "Rattfratz",
+	"english_name": "Rattata",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Adrenalin", "Übereifer", "Völlerei", "(Alola)", "Übereifer", "(Alola)", "Speckschicht", "(VF Alola)"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [30, 56, 35, 25, 35, 72]
+}

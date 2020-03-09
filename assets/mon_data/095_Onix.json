@@ -1,0 +1,11 @@
+{
+	"dex_number": 95,
+	"german_name": "Onix",
+	"english_name": "Onix",
+	"types": ["ROCK", "GROUND"],
+	"Fähigkeiten": ["Steinhaupt", "Robustheit", "Bruchrüstung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [35, 45, 160, 30, 45, 70]
+}

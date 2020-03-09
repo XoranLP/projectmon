@@ -1,0 +1,11 @@
+{
+	"dex_number": 254,
+	"german_name": "Gewaldro",
+	"english_name": "Sceptile",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Entlastung", "Blitzfänger", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [70, 85, 65, 105, 85, 120]
+}

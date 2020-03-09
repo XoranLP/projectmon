@@ -1,0 +1,11 @@
+{
+	"dex_number": 196,
+	"german_name": "Psiana",
+	"english_name": "Espeon",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Synchro", "Magiespiegel"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 65, 60, 130, 95, 110]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 377,
+	"german_name": "Regirock",
+	"english_name": "Regirock",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Neutraltorso", "Robustheit"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [80, 100, 200, 50, 100, 50]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 162,
+	"german_name": "Wiesenior",
+	"english_name": "Furret",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Adlerauge", "Schnüffler"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [85, 76, 64, 45, 55, 90]
+}

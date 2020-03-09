@@ -1,0 +1,11 @@
+{
+	"dex_number": 139,
+	"german_name": "Amoroso",
+	"english_name": "Omastar",
+	"types": ["ROCK", "WATER"],
+	"Fähigkeiten": ["Wassertempo", "Panzerhaut", "Bruchrüstung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "WATER3"],
+	"Stats": [70, 60, 125, 115, 70, 55]
+}

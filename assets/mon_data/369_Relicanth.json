@@ -1,0 +1,11 @@
+{
+	"dex_number": 369,
+	"german_name": "Relicanth",
+	"english_name": "Relicanth",
+	"types": ["WATER", "ROCK"],
+	"Fähigkeiten": ["Wassertempo", "Steinhaupt", "Robustheit"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "WATER2"],
+	"Stats": [100, 90, 130, 45, 65, 55]
+}

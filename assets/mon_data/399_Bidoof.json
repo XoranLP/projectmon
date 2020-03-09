@@ -1,0 +1,11 @@
+{
+	"dex_number": 399,
+	"german_name": "Bidiza",
+	"english_name": "Bidoof",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Wankelmut", "Unkenntnis", "Gefühlswippe"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [59, 45, 40, 35, 40, 31]
+}

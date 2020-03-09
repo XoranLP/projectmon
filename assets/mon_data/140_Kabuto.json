@@ -1,0 +1,11 @@
+{
+	"dex_number": 140,
+	"german_name": "Kabuto",
+	"english_name": "Kabuto",
+	"types": ["ROCK", "WATER"],
+	"Fähigkeiten": ["Wassertempo", "Kampfpanzer", "Bruchrüstung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "WATER3"],
+	"Stats": [30, 80, 90, 55, 45, 55]
+}

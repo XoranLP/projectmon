@@ -1,0 +1,11 @@
+{
+	"dex_number": 224,
+	"german_name": "Octillery",
+	"english_name": "Octillery",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Saugnapf", "Superschütze", "Gefühlswippe"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "WATER2"],
+	"Stats": [75, 105, 75, 105, 75, 45]
+}

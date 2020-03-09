@@ -1,0 +1,11 @@
+{
+	"dex_number": 256,
+	"german_name": "Jungglut",
+	"english_name": "Combusken",
+	"types": ["FIRE", "FIGHTING"],
+	"Fähigkeiten": ["Großbrand", "Temposchub"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 85, 60, 85, 60, 55]
+}

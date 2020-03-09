@@ -1,0 +1,11 @@
+{
+	"dex_number": 195,
+	"german_name": "Morlord",
+	"english_name": "Quagsire",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Feuchtigkeit", "H2O-Absorber", "Unkenntnis"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [95, 85, 85, 65, 65, 35]
+}

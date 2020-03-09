@@ -1,0 +1,11 @@
+{
+	"dex_number": 102,
+	"german_name": "Owei",
+	"english_name": "Exeggcute",
+	"types": ["GRASS", "PSYCHIC"],
+	"Fähigkeiten": ["Chlorophyll", "Reiche Ernte"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [60, 40, 80, 60, 45, 40]
+}

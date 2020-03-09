@@ -1,0 +1,11 @@
+{
+	"dex_number": 15,
+	"german_name": "Bibor",
+	"english_name": "Beedrill",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Hexaplaga", "Superschütze", "Anpassung", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [65, 90, 40, 45, 80, 75]
+}

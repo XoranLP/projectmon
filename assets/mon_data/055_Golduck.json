@@ -1,0 +1,11 @@
+{
+	"dex_number": 55,
+	"german_name": "Entoron",
+	"english_name": "Golduck",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Feuchtigkeit", "Wolke Sieben", "Wassertempo"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [80, 82, 78, 95, 80, 85]
+}

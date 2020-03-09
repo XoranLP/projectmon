@@ -1,0 +1,11 @@
+{
+	"dex_number": 319,
+	"german_name": "Tohaido",
+	"english_name": "Sharpedo",
+	"types": ["WATER", "DARK"],
+	"Fähigkeiten": ["Rauhaut", "Temposchub", "Titankiefer", "Mega"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [70, 120, 40, 95, 40, 95]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 340,
+	"german_name": "Welsar",
+	"english_name": "Whiscash",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Dösigkeit", "Vorahnung", "Hydration"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [110, 78, 73, 76, 71, 60]
+}

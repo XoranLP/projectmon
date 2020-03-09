@@ -1,0 +1,11 @@
+{
+	"dex_number": 268,
+	"german_name": "Panekon",
+	"english_name": "Cascoon",
+	"types": ["BUG"],
+	"Fähigkeiten": "",
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [50, 35, 55, 25, 25, 15]
+}

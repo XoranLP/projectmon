@@ -1,0 +1,11 @@
+{
+	"dex_number": 316,
+	"german_name": "Schluppuck",
+	"english_name": "Gulpin",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Kloakensoße", "Klebekörper", "Völlerei"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [70, 43, 53, 43, 53, 40]
+}

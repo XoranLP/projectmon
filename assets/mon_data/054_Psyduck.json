@@ -1,0 +1,11 @@
+{
+	"dex_number": 54,
+	"german_name": "Enton",
+	"english_name": "Psyduck",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Feuchtigkeit", "Wolke Sieben", "Wassertempo"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [50, 52, 48, 65, 50, 55]
+}

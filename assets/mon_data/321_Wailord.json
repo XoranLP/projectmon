@@ -1,0 +1,11 @@
+{
+	"dex_number": 321,
+	"german_name": "Wailord",
+	"english_name": "Wailord",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Aquahülle", "Dösigkeit", "Erzwinger"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD", "WATER2"],
+	"Stats": [170, 90, 45, 90, 45, 60]
+}

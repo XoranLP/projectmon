@@ -1,0 +1,11 @@
+{
+	"dex_number": 391,
+	"german_name": "Panpyro",
+	"english_name": "Monferno",
+	"types": ["FIRE", "FIGHTING"],
+	"Fähigkeiten": ["Großbrand", "Eisenfaust"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [64, 78, 52, 78, 52, 81]
+}

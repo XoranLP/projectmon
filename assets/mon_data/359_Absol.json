@@ -1,0 +1,11 @@
+{
+	"dex_number": 359,
+	"german_name": "Absol",
+	"english_name": "Absol",
+	"types": ["DARK"],
+	"Fähigkeiten": ["Erzwinger", "Glückspilz", "Redlichkeit", "Magiespiegel", "Mega"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 130, 60, 75, 60, 75]
+}

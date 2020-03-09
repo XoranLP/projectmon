@@ -1,0 +1,11 @@
+{
+	"dex_number": 178,
+	"german_name": "Xatu",
+	"english_name": "Xatu",
+	"types": ["PSYCHIC", "FLYING"],
+	"Fähigkeiten": ["Synchro", "Frühwecker", "Magiespiegel"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [65, 75, 70, 95, 70, 95]
+}

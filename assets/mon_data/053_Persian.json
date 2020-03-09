@@ -1,0 +1,11 @@
+{
+	"dex_number": 53,
+	"german_name": "Snobilikat",
+	"english_name": "Persian",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Flexibilität", "Techniker", "Anspannung", "Fellkleid", "(Alola)", "Techniker", "(Alola)", "Hasenfuß", "(VF Alola)"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 70, 60, 65, 65, 115]
+}

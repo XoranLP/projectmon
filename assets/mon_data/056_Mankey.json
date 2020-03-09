@@ -1,0 +1,11 @@
+{
+	"dex_number": 56,
+	"german_name": "Menki",
+	"english_name": "Mankey",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Munterkeit", "Kurzschluss", "Siegeswille"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [40, 80, 35, 35, 45, 70]
+}

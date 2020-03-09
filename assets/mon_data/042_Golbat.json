@@ -1,0 +1,11 @@
+{
+	"dex_number": 42,
+	"german_name": "Golbat",
+	"english_name": "Golbat",
+	"types": ["POISON", "FLYING"],
+	"Fähigkeiten": ["Konzentrator", "Schwebedurch"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [75, 80, 70, 65, 75, 90]
+}

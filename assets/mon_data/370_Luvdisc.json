@@ -1,0 +1,11 @@
+{
+	"dex_number": 370,
+	"german_name": "Liebiskus",
+	"english_name": "Luvdisc",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Hydration"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [43, 30, 55, 40, 65, 97]
+}

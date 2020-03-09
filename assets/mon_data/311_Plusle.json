@@ -1,0 +1,11 @@
+{
+	"dex_number": 311,
+	"german_name": "Plusle",
+	"english_name": "Plusle",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Plus", "Blitzfänger"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [60, 50, 40, 85, 75, 95]
+}

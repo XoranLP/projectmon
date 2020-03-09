@@ -1,0 +1,11 @@
+{
+	"dex_number": 65,
+	"german_name": "Simsala",
+	"english_name": "Alakazam",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Synchro", "Konzentrator", "Magieschild", "Erfassen", "Mega"],
+	"Fangrate": 50,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [55, 50, 45, 135, 95, 120]
+}

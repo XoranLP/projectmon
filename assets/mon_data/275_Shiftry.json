@@ -1,0 +1,11 @@
+{
+	"dex_number": 275,
+	"german_name": "Tengulist",
+	"english_name": "Shiftry",
+	"types": ["GRASS", "DARK"],
+	"Fähigkeiten": ["Chlorophyll", "Frühwecker", "Langfinger"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "FIELD"],
+	"Stats": [90, 100, 60, 90, 60, 80]
+}

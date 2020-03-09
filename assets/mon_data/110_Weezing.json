@@ -1,0 +1,11 @@
+{
+	"dex_number": 110,
+	"german_name": "Smogmog",
+	"english_name": "Weezing",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Schwebe", "Reaktionsgas", "Duftnote", "Schwebe", "(Galar)", "Reaktionsgas", "(Galar)", "Nebel-Erzeuger", "(VF Galar)"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [65, 90, 120, 85, 70, 60]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 10,
+	"german_name": "Raupy",
+	"english_name": "Caterpie",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Puderabwehr", "Angsthase"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [45, 30, 35, 20, 20, 45]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 253,
+	"german_name": "Reptain",
+	"english_name": "Grovyle",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Entlastung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [50, 65, 45, 85, 65, 95]
+}

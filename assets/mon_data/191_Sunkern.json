@@ -1,0 +1,11 @@
+{
+	"dex_number": 191,
+	"german_name": "Sonnkern",
+	"english_name": "Sunkern",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Solarkraft", "Frühwecker"],
+	"Fangrate": 235,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [30, 30, 30, 30, 30, 30]
+}

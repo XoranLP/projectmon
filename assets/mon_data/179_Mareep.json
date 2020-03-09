@@ -1,0 +1,11 @@
+{
+	"dex_number": 179,
+	"german_name": "Voltilamm",
+	"english_name": "Mareep",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Plus"],
+	"Fangrate": 235,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [55, 40, 40, 65, 45, 35]
+}

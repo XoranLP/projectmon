@@ -1,0 +1,11 @@
+{
+	"dex_number": 69,
+	"german_name": "Knofensa",
+	"english_name": "Bellsprout",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Chlorophyll", "Völlerei"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [50, 75, 35, 70, 30, 40]
+}

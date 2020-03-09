@@ -1,0 +1,11 @@
+{
+	"dex_number": 193,
+	"german_name": "Yanma",
+	"english_name": "Yanma",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Temposchub", "Facettenauge", "Schnüffler"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [65, 65, 45, 75, 45, 95]
+}

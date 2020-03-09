@@ -1,0 +1,11 @@
+{
+	"dex_number": 152,
+	"german_name": "Endivie",
+	"english_name": "Chikorita",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Floraschild"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [45, 49, 65, 49, 65, 45]
+}

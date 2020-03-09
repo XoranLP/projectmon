@@ -1,0 +1,11 @@
+{
+	"dex_number": 419,
+	"german_name": "Bojelin",
+	"english_name": "Floatzel",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Aquahülle"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [85, 105, 55, 85, 50, 115]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 160,
+	"german_name": "Impergator",
+	"english_name": "Feraligatr",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [85, 105, 100, 79, 83, 78]
+}

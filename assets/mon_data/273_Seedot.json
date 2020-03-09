@@ -1,0 +1,11 @@
+{
+	"dex_number": 273,
+	"german_name": "Samurzel",
+	"english_name": "Seedot",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Frühwecker", "Langfinger"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "FIELD"],
+	"Stats": [40, 40, 50, 30, 30, 30]
+}

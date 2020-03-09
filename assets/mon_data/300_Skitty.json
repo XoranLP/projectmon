@@ -1,0 +1,11 @@
+{
+	"dex_number": 300,
+	"german_name": "Eneco",
+	"english_name": "Skitty",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Charmebolzen", "Regulierung", "Wunderhaut"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [50, 45, 45, 35, 35, 50]
+}

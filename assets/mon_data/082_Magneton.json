@@ -1,0 +1,11 @@
+{
+	"dex_number": 82,
+	"german_name": "Magneton",
+	"english_name": "Magneton",
+	"types": ["ELECTRIC", "STEEL"],
+	"Fähigkeiten": ["Magnetfalle", "Robustheit", "Analyse"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [50, 60, 95, 120, 70, 70]
+}

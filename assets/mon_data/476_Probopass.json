@@ -1,0 +1,11 @@
+{
+	"dex_number": 476,
+	"german_name": "Voluminas",
+	"english_name": "Probopass",
+	"types": ["ROCK", "STEEL"],
+	"Fähigkeiten": ["Robustheit", "Magnetfalle", "Sandgewalt"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [60, 55, 145, 75, 150, 40]
+}

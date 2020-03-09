@@ -1,0 +1,11 @@
+{
+	"dex_number": 388,
+	"german_name": "Chelcarain",
+	"english_name": "Grotle",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Panzerhaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "MONSTER"],
+	"Stats": [75, 89, 85, 55, 65, 36]
+}

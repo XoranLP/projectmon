@@ -1,0 +1,11 @@
+{
+	"dex_number": 213,
+	"german_name": "Pottrott",
+	"english_name": "Shuckle",
+	"types": ["BUG", "ROCK"],
+	"Fähigkeiten": ["Robustheit", "Völlerei", "Umkehrung"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [20, 10, 230, 10, 230, 5]
+}

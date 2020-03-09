@@ -1,0 +1,11 @@
+{
+	"dex_number": 313,
+	"german_name": "Volbeat",
+	"english_name": "Volbeat",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Erleuchtung", "Hexaplaga", "Strolch"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG", "HUMANOID"],
+	"Stats": [65, 73, 75, 47, 85, 85]
+}

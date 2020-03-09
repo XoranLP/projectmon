@@ -1,0 +1,11 @@
+{
+	"dex_number": 66,
+	"german_name": "Machollo",
+	"english_name": "Machop",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Adrenalin", "Schildlos", "Felsenfest"],
+	"Fangrate": 180,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [70, 80, 50, 35, 35, 35]
+}

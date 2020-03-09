@@ -1,0 +1,11 @@
+{
+	"dex_number": 226,
+	"german_name": "Mantax",
+	"english_name": "Mantine",
+	"types": ["WATER", "FLYING"],
+	"Fähigkeiten": ["Wassertempo", "H2O-Absorber", "Aquahülle"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [85, 40, 70, 80, 140, 70]
+}

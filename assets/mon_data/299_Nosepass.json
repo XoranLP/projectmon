@@ -1,0 +1,11 @@
+{
+	"dex_number": 299,
+	"german_name": "Nasgnet",
+	"english_name": "Nosepass",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Robustheit", "Magnetfalle", "Sandgewalt"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [30, 45, 135, 45, 90, 30]
+}

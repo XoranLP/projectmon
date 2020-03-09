@@ -1,0 +1,11 @@
+{
+	"dex_number": 453,
+	"german_name": "Glibunkel",
+	"english_name": "Croagunk",
+	"types": ["POISON", "FIGHTING"],
+	"Fähigkeiten": ["Vorahnung", "Trockenheit", "Giftgriff"],
+	"Fangrate": 140,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [48, 61, 40, 61, 40, 50]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 393,
+	"german_name": "Plinfa",
+	"english_name": "Piplup",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Siegeswille"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [53, 51, 53, 61, 56, 40]
+}

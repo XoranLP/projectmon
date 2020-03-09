@@ -1,0 +1,11 @@
+{
+	"dex_number": 489,
+	"german_name": "Phione",
+	"english_name": "Phione",
+	"types": ["WATER"],
+	"Fähigkeiten": "",
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FAIRY"],
+	"Stats": [80, 80, 80, 80, 80, 80]
+}

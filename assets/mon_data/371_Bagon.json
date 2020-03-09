@@ -1,0 +1,11 @@
+{
+	"dex_number": 371,
+	"german_name": "Kindwurm",
+	"english_name": "Bagon",
+	"types": ["DRAGON"],
+	"Fähigkeiten": ["Steinhaupt", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["DRAGON"],
+	"Stats": [45, 75, 60, 40, 30, 50]
+}

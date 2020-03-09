@@ -1,0 +1,11 @@
+{
+	"dex_number": 151,
+	"german_name": "Mew",
+	"english_name": "Mew",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 100, 100, 100, 100, 100]
+}

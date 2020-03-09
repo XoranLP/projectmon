@@ -1,0 +1,11 @@
+{
+	"dex_number": 237,
+	"german_name": "Kapoera",
+	"english_name": "Hitmontop",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Bedroher", "Techniker", "Felsenfest"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [50, 95, 95, 35, 110, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 459,
+	"german_name": "Shnebedeck",
+	"english_name": "Snover",
+	"types": ["GRASS", "ICE"],
+	"Fähigkeiten": ["Hagelalarm", "Lärmschutz"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [60, 62, 50, 62, 60, 40]
+}

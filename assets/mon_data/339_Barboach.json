@@ -1,0 +1,11 @@
+{
+	"dex_number": 339,
+	"german_name": "Schmerbe",
+	"english_name": "Barboach",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Dösigkeit", "Vorahnung", "Hydration"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [50, 48, 43, 46, 41, 60]
+}

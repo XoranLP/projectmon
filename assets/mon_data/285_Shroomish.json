@@ -1,0 +1,11 @@
+{
+	"dex_number": 285,
+	"german_name": "Knilz",
+	"english_name": "Shroomish",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Sporenwirt", "Aufheber", "Rasanz"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [60, 40, 60, 40, 60, 35]
+}

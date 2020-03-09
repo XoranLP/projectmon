@@ -1,0 +1,11 @@
+{
+	"dex_number": 257,
+	"german_name": "Lohgock",
+	"english_name": "Blaziken",
+	"types": ["FIRE", "FIGHTING"],
+	"Fähigkeiten": ["Großbrand", "Temposchub", "Temposchub", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [80, 120, 70, 110, 70, 80]
+}

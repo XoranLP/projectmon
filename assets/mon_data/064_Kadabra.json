@@ -1,0 +1,11 @@
+{
+	"dex_number": 64,
+	"german_name": "Kadabra",
+	"english_name": "Kadabra",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Synchro", "Konzentrator", "Magieschild"],
+	"Fangrate": 100,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [40, 35, 30, 120, 70, 105]
+}

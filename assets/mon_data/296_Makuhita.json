@@ -1,0 +1,11 @@
+{
+	"dex_number": 296,
+	"german_name": "Makuhita",
+	"english_name": "Makuhita",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Speckschicht", "Adrenalin", "Rohe Gewalt"],
+	"Fangrate": 180,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [72, 60, 30, 20, 30, 25]
+}

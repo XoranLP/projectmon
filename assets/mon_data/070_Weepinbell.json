@@ -1,0 +1,11 @@
+{
+	"dex_number": 70,
+	"german_name": "Ultrigaria",
+	"english_name": "Weepinbell",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Chlorophyll", "Völlerei"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [65, 90, 50, 85, 45, 55]
+}

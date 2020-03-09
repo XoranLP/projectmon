@@ -1,0 +1,11 @@
+{
+	"dex_number": 395,
+	"german_name": "Impoleon",
+	"english_name": "Empoleon",
+	"types": ["WATER", "STEEL"],
+	"Fähigkeiten": ["Sturzbach", "Siegeswille"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [84, 86, 88, 111, 101, 60]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 123,
+	"german_name": "Sichlor",
+	"english_name": "Scyther",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Hexaplaga", "Techniker", "Felsenfest"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [70, 110, 80, 55, 80, 105]
+}

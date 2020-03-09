@@ -1,0 +1,11 @@
+{
+	"dex_number": 408,
+	"german_name": "Koknodon",
+	"english_name": "Cranidos",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Überbrückung", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [67, 125, 40, 30, 30, 58]
+}

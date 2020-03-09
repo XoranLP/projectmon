@@ -1,0 +1,11 @@
+{
+	"dex_number": 301,
+	"german_name": "Enekoro",
+	"english_name": "Delcatty",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Charmebolzen", "Regulierung", "Wunderhaut"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [70, 65, 65, 55, 55, 90]
+}

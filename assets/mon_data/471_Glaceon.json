@@ -1,0 +1,11 @@
+{
+	"dex_number": 471,
+	"german_name": "Glaziola",
+	"english_name": "Glaceon",
+	"types": ["ICE"],
+	"Fähigkeiten": ["Schneemantel", "Eishaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 60, 110, 130, 95, 65]
+}

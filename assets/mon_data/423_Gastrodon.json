@@ -1,0 +1,11 @@
+{
+	"dex_number": 423,
+	"german_name": "Gastrodon",
+	"english_name": "Gastrodon",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Klebekörper", "Sturmsog", "Sandgewalt"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "AMORPHOUS"],
+	"Stats": [111, 83, 68, 92, 82, 39]
+}

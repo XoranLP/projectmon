@@ -1,0 +1,11 @@
+{
+	"dex_number": 411,
+	"german_name": "Bollterus",
+	"english_name": "Bastiodon",
+	"types": ["ROCK", "STEEL"],
+	"Fähigkeiten": ["Robustheit", "Lärmschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [60, 52, 168, 47, 138, 30]
+}

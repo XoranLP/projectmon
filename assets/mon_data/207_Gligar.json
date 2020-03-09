@@ -1,0 +1,11 @@
+{
+	"dex_number": 207,
+	"german_name": "Skorgla",
+	"english_name": "Gligar",
+	"types": ["GROUND", "FLYING"],
+	"Fähigkeiten": ["Scherenmacht", "Sandschleier", "Immunität"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [65, 75, 105, 35, 65, 85]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 447,
+	"german_name": "Riolu",
+	"english_name": "Riolu",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Felsenfest", "Konzentrator", "Strolch"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [40, 70, 40, 35, 40, 60]
+}

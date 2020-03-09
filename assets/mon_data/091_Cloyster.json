@@ -1,0 +1,11 @@
+{
+	"dex_number": 91,
+	"german_name": "Austos",
+	"english_name": "Cloyster",
+	"types": ["WATER", "ICE"],
+	"Fähigkeiten": ["Panzerhaut", "Wertelink", "Partikelschutz"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [50, 95, 180, 85, 45, 70]
+}

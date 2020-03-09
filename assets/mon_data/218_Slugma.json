@@ -1,0 +1,11 @@
+{
+	"dex_number": 218,
+	"german_name": "Schneckmag",
+	"english_name": "Slugma",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Magmapanzer", "Flammkörper", "Bruchrüstung"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [40, 40, 40, 70, 40, 20]
+}

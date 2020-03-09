@@ -1,0 +1,11 @@
+{
+	"dex_number": 63,
+	"german_name": "Abra",
+	"english_name": "Abra",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Synchro", "Konzentrator", "Magieschild"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [25, 20, 15, 105, 55, 90]
+}

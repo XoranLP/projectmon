@@ -1,0 +1,11 @@
+{
+	"dex_number": 148,
+	"german_name": "Dragonir",
+	"english_name": "Dragonair",
+	"types": ["DRAGON"],
+	"Fähigkeiten": ["Expidermis", "Notschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [61, 84, 65, 70, 70, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 222,
+	"german_name": "Corasonn",
+	"english_name": "Corsola",
+	"types": ["WATER", "ROCK"],
+	"Fähigkeiten": ["Übereifer", "Innere Kraft", "Belebekraft", "Bruchrüstung", "(Galar)", "Tastfluch", "(VF Galar)"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "WATER3"],
+	"Stats": [65, 55, 95, 65, 95, 35]
+}

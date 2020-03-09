@@ -1,0 +1,11 @@
+{
+	"dex_number": 320,
+	"german_name": "Wailmer",
+	"english_name": "Wailmer",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Aquahülle", "Dösigkeit", "Erzwinger"],
+	"Fangrate": 125,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD", "WATER2"],
+	"Stats": [130, 70, 35, 70, 35, 60]
+}

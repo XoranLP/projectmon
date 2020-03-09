@@ -1,0 +1,11 @@
+{
+	"dex_number": 134,
+	"german_name": "Aquana",
+	"english_name": "Vaporeon",
+	"types": ["WATER"],
+	"Fähigkeiten": ["H2O-Absorber", "Hydration"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [130, 65, 60, 110, 95, 65]
+}

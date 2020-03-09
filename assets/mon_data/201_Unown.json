@@ -1,0 +1,11 @@
+{
+	"dex_number": 201,
+	"german_name": "Icognito",
+	"english_name": "Unown",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 225,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [48, 72, 48, 72, 48, 48]
+}

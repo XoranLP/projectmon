@@ -1,0 +1,11 @@
+{
+	"dex_number": 229,
+	"german_name": "Hundemon",
+	"english_name": "Houndoom",
+	"types": ["DARK", "FIRE"],
+	"Fähigkeiten": ["Frühwecker", "Feuerfänger", "Anspannung", "Solarkraft", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [75, 90, 50, 110, 80, 95]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 98,
+	"german_name": "Krabby",
+	"english_name": "Krabby",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Scherenmacht", "Panzerhaut", "Rohe Gewalt"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [30, 105, 90, 25, 25, 50]
+}

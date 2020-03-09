@@ -1,0 +1,11 @@
+{
+	"dex_number": 28,
+	"german_name": "Sandamer",
+	"english_name": "Sandslash",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Sandscharrer", "Schneemantel", "(Alola)", "Schneescharrer", "(VF Alola)"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [75, 100, 110, 45, 55, 65]
+}

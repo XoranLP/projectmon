@@ -1,0 +1,11 @@
+{
+	"dex_number": 161,
+	"german_name": "Wiesor",
+	"english_name": "Sentret",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Adlerauge", "Schnüffler"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [35, 46, 34, 35, 45, 20]
+}

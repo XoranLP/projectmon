@@ -1,0 +1,11 @@
+{
+	"dex_number": 147,
+	"german_name": "Dratini",
+	"english_name": "Dratini",
+	"types": ["DRAGON"],
+	"Fähigkeiten": ["Expidermis", "Notschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [41, 64, 45, 50, 50, 50]
+}

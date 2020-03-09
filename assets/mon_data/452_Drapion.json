@@ -1,0 +1,11 @@
+{
+	"dex_number": 452,
+	"german_name": "Piondragi",
+	"english_name": "Drapion",
+	"types": ["POISON", "DARK"],
+	"Fähigkeiten": ["Kampfpanzer", "Superschütze", "Adlerauge"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG", "WATER3"],
+	"Stats": [70, 90, 110, 60, 75, 95]
+}

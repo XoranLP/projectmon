@@ -1,0 +1,11 @@
+{
+	"dex_number": 87,
+	"german_name": "Jugong",
+	"english_name": "Dewgong",
+	"types": ["WATER", "ICE"],
+	"Fähigkeiten": ["Speckschicht", "Hydration", "Eishaut"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [90, 70, 80, 70, 95, 70]
+}

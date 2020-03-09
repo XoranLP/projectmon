@@ -1,0 +1,11 @@
+{
+	"dex_number": 387,
+	"german_name": "Chelast",
+	"english_name": "Turtwig",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Panzerhaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "MONSTER"],
+	"Stats": [55, 68, 64, 45, 55, 31]
+}

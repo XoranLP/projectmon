@@ -1,0 +1,11 @@
+{
+	"dex_number": 390,
+	"german_name": "Panflam",
+	"english_name": "Chimchar",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Großbrand", "Eisenfaust"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [44, 58, 44, 58, 44, 61]
+}

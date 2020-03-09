@@ -1,0 +1,11 @@
+{
+	"dex_number": 484,
+	"german_name": "Palkia",
+	"english_name": "Palkia",
+	"types": ["WATER", "DRAGON"],
+	"Fähigkeiten": ["Erzwinger", "Telepathie"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 120, 100, 150, 120, 100]
+}

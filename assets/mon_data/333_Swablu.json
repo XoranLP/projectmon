@@ -1,0 +1,11 @@
+{
+	"dex_number": 333,
+	"german_name": "Wablu",
+	"english_name": "Swablu",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Innere Kraft", "Wolke Sieben"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING", "DRAGON"],
+	"Stats": [45, 40, 60, 40, 75, 50]
+}

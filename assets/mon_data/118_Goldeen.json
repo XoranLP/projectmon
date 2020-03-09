@@ -1,0 +1,11 @@
+{
+	"dex_number": 118,
+	"german_name": "Goldini",
+	"english_name": "Goldeen",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Aquahülle", "Blitzfänger"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [45, 67, 60, 35, 50, 63]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 124,
+	"german_name": "Rossana",
+	"english_name": "Jynx",
+	"types": ["ICE", "PSYCHIC"],
+	"Fähigkeiten": ["Dösigkeit", "Vorwarnung", "Trockenheit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [65, 50, 35, 115, 95, 95]
+}

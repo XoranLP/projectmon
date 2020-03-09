@@ -1,0 +1,11 @@
+{
+	"dex_number": 474,
+	"german_name": "Porygon-Z",
+	"english_name": "Porygon-Z",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Anpassung", "Download", "Analyse"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [85, 80, 70, 135, 75, 90]
+}

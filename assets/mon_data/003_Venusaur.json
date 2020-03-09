@@ -1,0 +1,11 @@
+{
+	"dex_number": 3,
+	"german_name": "Bisaflor",
+	"english_name": "Venusaur",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Notdünger", "Chlorophyll", "Speckschicht", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [80, 82, 83, 100, 100, 80]
+}

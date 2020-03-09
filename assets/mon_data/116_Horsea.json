@@ -1,0 +1,11 @@
+{
+	"dex_number": 116,
+	"german_name": "Seeper",
+	"english_name": "Horsea",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Superschütze", "Feuchtigkeit"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [30, 40, 70, 70, 25, 60]
+}

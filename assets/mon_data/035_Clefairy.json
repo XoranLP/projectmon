@@ -1,0 +1,11 @@
+{
+	"dex_number": 35,
+	"german_name": "Piepi",
+	"english_name": "Clefairy",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Magieschild", "Freundeshut"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [70, 45, 48, 60, 65, 35]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 276,
+	"german_name": "Schwalbini",
+	"english_name": "Taillow",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adrenalin", "Rauflust"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 55, 30, 30, 30, 85]
+}

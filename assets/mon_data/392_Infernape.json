@@ -1,0 +1,11 @@
+{
+	"dex_number": 392,
+	"german_name": "Panferno",
+	"english_name": "Infernape",
+	"types": ["FIRE", "FIGHTING"],
+	"Fähigkeiten": ["Großbrand", "Eisenfaust"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [76, 104, 71, 104, 71, 108]
+}

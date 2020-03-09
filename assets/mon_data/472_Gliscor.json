@@ -1,0 +1,11 @@
+{
+	"dex_number": 472,
+	"german_name": "Skorgro",
+	"english_name": "Gliscor",
+	"types": ["GROUND", "FLYING"],
+	"Fähigkeiten": ["Scherenmacht", "Sandschleier", "Aufheber"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [75, 95, 125, 45, 75, 95]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 384,
+	"german_name": "Rayquaza",
+	"english_name": "Rayquaza",
+	"types": ["DRAGON", "FLYING"],
+	"Fähigkeiten": ["Klimaschutz", "Delta-Wind", "Mega"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [105, 150, 90, 150, 90, 95]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 246,
+	"german_name": "Larvitar",
+	"english_name": "Larvitar",
+	"types": ["ROCK", "GROUND"],
+	"Fähigkeiten": ["Adrenalin", "Sandschleier"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [50, 64, 50, 45, 50, 41]
+}

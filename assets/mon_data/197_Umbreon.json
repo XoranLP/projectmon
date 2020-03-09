@@ -1,0 +1,11 @@
+{
+	"dex_number": 197,
+	"german_name": "Nachtara",
+	"english_name": "Umbreon",
+	"types": ["DARK"],
+	"Fähigkeiten": ["Synchro", "Konzentrator"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [95, 65, 110, 60, 130, 65]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 331,
+	"german_name": "Tuska",
+	"english_name": "Cacnea",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Sandschleier", "H2O-Absorber"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["PLANT", "HUMANOID"],
+	"Stats": [50, 85, 40, 85, 40, 35]
+}

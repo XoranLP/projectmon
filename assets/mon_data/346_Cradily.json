@@ -1,0 +1,11 @@
+{
+	"dex_number": 346,
+	"german_name": "Wielie",
+	"english_name": "Cradily",
+	"types": ["ROCK", "GRASS"],
+	"Fähigkeiten": ["Saugnapf", "Sturmsog"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [86, 81, 97, 81, 107, 43]
+}

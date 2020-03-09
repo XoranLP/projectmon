@@ -1,0 +1,11 @@
+{
+	"dex_number": 174,
+	"german_name": "Fluffeluff",
+	"english_name": "Igglybuff",
+	"types": ["NORMAL", "FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Unbeugsamkeit", "Freundeshut"],
+	"Fangrate": 170,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 30, 15, 40, 20, 15]
+}

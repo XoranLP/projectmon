@@ -1,0 +1,11 @@
+{
+	"dex_number": 99,
+	"german_name": "Kingler",
+	"english_name": "Kingler",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Scherenmacht", "Panzerhaut", "Rohe Gewalt"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [55, 130, 115, 50, 50, 75]
+}

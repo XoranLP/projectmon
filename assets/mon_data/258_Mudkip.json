@@ -1,0 +1,11 @@
+{
+	"dex_number": 258,
+	"german_name": "Hydropi",
+	"english_name": "Mudkip",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Feuchtigkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [50, 70, 50, 50, 50, 40]
+}

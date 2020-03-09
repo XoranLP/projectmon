@@ -1,0 +1,11 @@
+{
+	"dex_number": 366,
+	"german_name": "Perlu",
+	"english_name": "Clamperl",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Panzerhaut", "Hasenfuß"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [35, 64, 85, 74, 55, 32]
+}

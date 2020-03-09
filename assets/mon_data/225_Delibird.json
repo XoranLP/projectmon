@@ -1,0 +1,11 @@
+{
+	"dex_number": 225,
+	"german_name": "Botogel",
+	"english_name": "Delibird",
+	"types": ["ICE", "FLYING"],
+	"Fähigkeiten": ["Übereifer", "Munterkeit", "Insomnia"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [45, 55, 45, 65, 45, 75]
+}

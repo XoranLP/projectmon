@@ -1,0 +1,11 @@
+{
+	"dex_number": 62,
+	"german_name": "Quappo",
+	"english_name": "Poliwrath",
+	"types": ["WATER", "FIGHTING"],
+	"Fähigkeiten": ["H2O-Absorber", "Feuchtigkeit", "Wassertempo"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [90, 95, 95, 70, 90, 70]
+}

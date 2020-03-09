@@ -1,0 +1,11 @@
+{
+	"dex_number": 81,
+	"german_name": "Magnetilo",
+	"english_name": "Magnemite",
+	"types": ["ELECTRIC", "STEEL"],
+	"Fähigkeiten": ["Magnetfalle", "Robustheit", "Analyse"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [25, 35, 70, 95, 55, 45]
+}

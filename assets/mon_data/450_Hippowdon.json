@@ -1,0 +1,11 @@
+{
+	"dex_number": 450,
+	"german_name": "Hippoterus",
+	"english_name": "Hippowdon",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Sandsturm", "Sandgewalt"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [108, 112, 118, 68, 72, 47]
+}

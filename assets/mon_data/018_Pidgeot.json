@@ -1,0 +1,11 @@
+{
+	"dex_number": 18,
+	"german_name": "Tauboss",
+	"english_name": "Pidgeot",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Fußangel", "Brustbieter", "Schildlos", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [83, 80, 75, 70, 70, 101]
+}

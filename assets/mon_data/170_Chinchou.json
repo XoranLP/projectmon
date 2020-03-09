@@ -1,0 +1,11 @@
+{
+	"dex_number": 170,
+	"german_name": "Lampi",
+	"english_name": "Chinchou",
+	"types": ["WATER", "ELECTRIC"],
+	"Fähigkeiten": ["Voltabsorber", "Erleuchtung", "H2O-Absorber"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [75, 38, 38, 56, 56, 67]
+}

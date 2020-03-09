@@ -1,0 +1,11 @@
+{
+	"dex_number": 209,
+	"german_name": "Snubbull",
+	"english_name": "Snubbull",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Bedroher", "Angsthase", "Hasenfuß"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [60, 80, 50, 40, 40, 30]
+}

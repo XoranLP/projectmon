@@ -1,0 +1,11 @@
+{
+	"dex_number": 292,
+	"german_name": "Ninjatom",
+	"english_name": "Shedinja",
+	"types": ["BUG", "GHOST"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [1, 90, 45, 30, 30, 40]
+}

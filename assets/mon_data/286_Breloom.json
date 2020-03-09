@@ -1,0 +1,11 @@
+{
+	"dex_number": 286,
+	"german_name": "Kapilz",
+	"english_name": "Breloom",
+	"types": ["GRASS", "FIGHTING"],
+	"Fähigkeiten": ["Sporenwirt", "Aufheber", "Techniker"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [60, 130, 80, 60, 60, 70]
+}

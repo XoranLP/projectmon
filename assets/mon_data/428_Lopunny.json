@@ -1,0 +1,11 @@
+{
+	"dex_number": 428,
+	"german_name": "Schlapor",
+	"english_name": "Lopunny",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Charmebolzen", "Tollpatsch", "Flexibilität", "Rauflust", "Mega"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [65, 76, 84, 54, 96, 105]
+}

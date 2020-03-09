@@ -1,0 +1,11 @@
+{
+	"dex_number": 208,
+	"german_name": "Stahlos",
+	"english_name": "Steelix",
+	"types": ["STEEL", "GROUND"],
+	"Fähigkeiten": ["Steinhaupt", "Robustheit", "Rohe Gewalt", "Sandgewalt", "Mega"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [75, 85, 200, 55, 65, 30]
+}

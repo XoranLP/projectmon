@@ -1,0 +1,11 @@
+{
+	"dex_number": 394,
+	"german_name": "Pliprin",
+	"english_name": "Prinplup",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Siegeswille"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [64, 66, 68, 81, 76, 50]
+}

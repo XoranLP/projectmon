@@ -1,0 +1,11 @@
+{
+	"dex_number": 483,
+	"german_name": "Dialga",
+	"english_name": "Dialga",
+	"types": ["STEEL", "DRAGON"],
+	"Fähigkeiten": ["Erzwinger", "Telepathie"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 120, 120, 150, 100, 90]
+}

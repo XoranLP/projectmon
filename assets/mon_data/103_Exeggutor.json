@@ -1,0 +1,11 @@
+{
+	"dex_number": 103,
+	"german_name": "Kokowei",
+	"english_name": "Exeggutor",
+	"types": ["GRASS", "PSYCHIC"],
+	"Fähigkeiten": ["Chlorophyll", "Reiche Ernte", "Schnüffler", "(Alola)", "Reiche Ernte", "(VF Alola)"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [95, 95, 85, 125, 75, 55]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 203,
+	"german_name": "Girafarig",
+	"english_name": "Girafarig",
+	"types": ["NORMAL", "PSYCHIC"],
+	"Fähigkeiten": ["Konzentrator", "Frühwecker", "Vegetarier"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [70, 80, 65, 90, 65, 85]
+}

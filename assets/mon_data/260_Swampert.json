@@ -1,0 +1,11 @@
+{
+	"dex_number": 260,
+	"german_name": "Sumpex",
+	"english_name": "Swampert",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Sturzbach", "Feuchtigkeit", "Wassertempo", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [100, 110, 90, 85, 90, 60]
+}

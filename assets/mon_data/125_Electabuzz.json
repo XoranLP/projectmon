@@ -1,0 +1,11 @@
+{
+	"dex_number": 125,
+	"german_name": "Elektek",
+	"english_name": "Electabuzz",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Munterkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [65, 83, 57, 95, 85, 105]
+}

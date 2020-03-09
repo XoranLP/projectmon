@@ -1,0 +1,11 @@
+{
+	"dex_number": 241,
+	"german_name": "Miltank",
+	"english_name": "Miltank",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Speckschicht", "Rauflust", "Vegetarier"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [95, 80, 105, 40, 70, 100]
+}

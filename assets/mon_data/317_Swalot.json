@@ -1,0 +1,11 @@
+{
+	"dex_number": 317,
+	"german_name": "Schlukwech",
+	"english_name": "Swalot",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Kloakensoße", "Klebekörper", "Völlerei"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [100, 73, 83, 73, 83, 55]
+}

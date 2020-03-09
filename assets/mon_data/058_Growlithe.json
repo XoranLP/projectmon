@@ -1,0 +1,11 @@
+{
+	"dex_number": 58,
+	"german_name": "Fukano",
+	"english_name": "Growlithe",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Bedroher", "Feuerfänger", "Redlichkeit"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [55, 70, 45, 70, 50, 60]
+}

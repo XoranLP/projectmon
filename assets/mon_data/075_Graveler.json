@@ -1,0 +1,11 @@
+{
+	"dex_number": 75,
+	"german_name": "Georok",
+	"english_name": "Graveler",
+	"types": ["ROCK", "GROUND"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Sandschleier", "Magnetfalle", "(Alola)", "Robustheit", "(Alola)", "Elektrohaut", "(VF Alola)"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [55, 95, 115, 45, 45, 35]
+}

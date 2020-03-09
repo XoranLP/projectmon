@@ -1,0 +1,11 @@
+{
+	"dex_number": 491,
+	"german_name": "Darkrai",
+	"english_name": "Darkrai",
+	"types": ["DARK"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [70, 90, 90, 135, 90, 125]
+}

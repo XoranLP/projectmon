@@ -1,0 +1,11 @@
+{
+	"dex_number": 244,
+	"german_name": "Entei",
+	"english_name": "Entei",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Erzwinger", "Feuerfänger", " bis ", "6. Gen.", "Konzentrator", "; ab ", "7. Gen."],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [115, 115, 85, 90, 75, 100]
+}

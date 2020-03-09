@@ -1,0 +1,11 @@
+{
+	"dex_number": 79,
+	"german_name": "Flegmon",
+	"english_name": "Slowpoke",
+	"types": ["WATER", "PSYCHIC"],
+	"Fähigkeiten": ["Dösigkeit", "Tempomacher", "Belebekraft", "Völlerei", "(Galar)", "Tempomacher", "(Galar)", "Belebekraft", "(VF Galar)"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [90, 65, 65, 40, 40, 15]
+}

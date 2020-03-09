@@ -1,0 +1,11 @@
+{
+	"dex_number": 8,
+	"german_name": "Schillok",
+	"english_name": "Wartortle",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Regengenuss"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [59, 63, 80, 65, 80, 58]
+}

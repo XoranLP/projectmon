@@ -1,0 +1,11 @@
+{
+	"dex_number": 358,
+	"german_name": "Palimpalim",
+	"english_name": "Chimecho",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [75, 50, 80, 95, 90, 65]
+}

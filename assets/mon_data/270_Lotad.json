@@ -1,0 +1,11 @@
+{
+	"dex_number": 270,
+	"german_name": "Loturzel",
+	"english_name": "Lotad",
+	"types": ["WATER", "GRASS"],
+	"Fähigkeiten": ["Wassertempo", "Regengenuss", "Tempomacher"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "WATER1"],
+	"Stats": [40, 30, 30, 40, 50, 30]
+}

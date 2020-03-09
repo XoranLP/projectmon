@@ -1,0 +1,11 @@
+{
+	"dex_number": 185,
+	"german_name": "Mogelbaum",
+	"english_name": "Sudowoodo",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Hasenfuß"],
+	"Fangrate": 65,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [70, 100, 115, 30, 65, 30]
+}

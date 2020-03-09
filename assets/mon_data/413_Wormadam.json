@@ -1,0 +1,11 @@
+{
+	"dex_number": 413,
+	"german_name": "Burmadame",
+	"english_name": "Wormadam",
+	"types": ["BUG", "GRASS"],
+	"Fähigkeiten": ["Vorahnung", "Partikelschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [60, 59, 85, 79, 105, 36]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 96,
+	"german_name": "Traumato",
+	"english_name": "Drowzee",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Insomnia", "Vorwarnung", "Konzentrator"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [60, 48, 45, 43, 90, 42]
+}

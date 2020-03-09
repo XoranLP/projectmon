@@ -1,0 +1,11 @@
+{
+	"dex_number": 363,
+	"german_name": "Seemops",
+	"english_name": "Spheal",
+	"types": ["ICE", "WATER"],
+	"Fähigkeiten": ["Speckschicht", "Eishaut", "Dösigkeit"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [70, 40, 50, 55, 50, 25]
+}

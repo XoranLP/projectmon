@@ -1,0 +1,11 @@
+{
+	"dex_number": 488,
+	"german_name": "Cresselia",
+	"english_name": "Cresselia",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [120, 70, 120, 75, 130, 85]
+}

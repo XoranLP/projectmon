@@ -1,0 +1,11 @@
+{
+	"dex_number": 457,
+	"german_name": "Lumineon",
+	"english_name": "Lumineon",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Sturmsog", "Aquahülle"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [69, 69, 76, 69, 86, 91]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 187,
+	"german_name": "Hoppspross",
+	"english_name": "Hoppip",
+	"types": ["GRASS", "FLYING"],
+	"Fähigkeiten": ["Chlorophyll", "Floraschild", "Schwebedurch"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [35, 35, 40, 35, 55, 50]
+}

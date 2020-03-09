@@ -1,0 +1,11 @@
+{
+	"dex_number": 73,
+	"german_name": "Tentoxa",
+	"english_name": "Tentacruel",
+	"types": ["WATER", "POISON"],
+	"Fähigkeiten": ["Neutraltorso", "Kloakensoße", "Regengenuss"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [80, 70, 65, 80, 120, 100]
+}

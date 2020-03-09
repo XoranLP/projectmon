@@ -1,0 +1,11 @@
+{
+	"dex_number": 326,
+	"german_name": "Groink",
+	"english_name": "Grumpig",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Speckschicht", "Tempomacher", "Völlerei"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [80, 45, 65, 90, 110, 80]
+}

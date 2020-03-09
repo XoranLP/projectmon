@@ -1,0 +1,11 @@
+{
+	"dex_number": 166,
+	"german_name": "Ledian",
+	"english_name": "Ledian",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Hexaplaga", "Frühwecker", "Eisenfaust"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [55, 35, 50, 55, 110, 85]
+}

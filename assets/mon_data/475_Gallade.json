@@ -1,0 +1,11 @@
+{
+	"dex_number": 475,
+	"german_name": "Galagladi",
+	"english_name": "Gallade",
+	"types": ["PSYCHIC", "FIGHTING"],
+	"Fähigkeiten": ["Felsenfest", "Redlichkeit", "Konzentrator", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [68, 125, 65, 65, 115, 80]
+}

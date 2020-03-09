@@ -1,0 +1,11 @@
+{
+	"dex_number": 294,
+	"german_name": "Krakeelo",
+	"english_name": "Loudred",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Lärmschutz", "Rauflust"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [84, 71, 43, 71, 43, 48]
+}

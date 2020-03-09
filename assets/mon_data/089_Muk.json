@@ -1,0 +1,11 @@
+{
+	"dex_number": 89,
+	"german_name": "Sleimok",
+	"english_name": "Muk",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Duftnote", "Klebekörper", "Giftgriff", "Giftgriff", "(Alola)", "Völlerei", "(Alola)", "Chemiekraft", "(VF Alola)"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [105, 105, 75, 65, 100, 50]
+}

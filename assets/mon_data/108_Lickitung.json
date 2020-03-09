@@ -1,0 +1,11 @@
+{
+	"dex_number": 108,
+	"german_name": "Schlurp",
+	"english_name": "Lickitung",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Tempomacher", "Dösigkeit", "Wolke Sieben"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [90, 55, 75, 60, 75, 30]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 184,
+	"german_name": "Azumarill",
+	"english_name": "Azumarill",
+	"types": ["WATER", "FAIRY"],
+	"Fähigkeiten": ["Speckschicht", "Kraftkoloss", "Vegetarier"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "WATER1"],
+	"Stats": [100, 50, 80, 60, 80, 50]
+}

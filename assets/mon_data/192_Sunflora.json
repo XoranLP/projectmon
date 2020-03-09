@@ -1,0 +1,11 @@
+{
+	"dex_number": 192,
+	"german_name": "Sonnflora",
+	"english_name": "Sunflora",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Solarkraft", "Frühwecker"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [75, 75, 55, 105, 85, 30]
+}

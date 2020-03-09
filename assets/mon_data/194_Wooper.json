@@ -1,0 +1,11 @@
+{
+	"dex_number": 194,
+	"german_name": "Felino",
+	"english_name": "Wooper",
+	"types": ["WATER", "GROUND"],
+	"Fähigkeiten": ["Feuchtigkeit", "H2O-Absorber", "Unkenntnis"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [55, 45, 45, 25, 25, 15]
+}

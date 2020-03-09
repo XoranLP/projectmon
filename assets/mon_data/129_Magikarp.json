@@ -1,0 +1,11 @@
+{
+	"dex_number": 129,
+	"german_name": "Karpador",
+	"english_name": "Magikarp",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Hasenfuß"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["DRAGON", "WATER2"],
+	"Stats": [20, 10, 55, 15, 20, 80]
+}

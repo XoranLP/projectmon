@@ -1,0 +1,11 @@
+{
+	"dex_number": 40,
+	"german_name": "Knuddeluff",
+	"english_name": "Wigglytuff",
+	"types": ["NORMAL", "FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Unbeugsamkeit", "Schnüffler"],
+	"Fangrate": 50,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [140, 70, 45, 85, 50, 45]
+}

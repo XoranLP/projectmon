@@ -1,0 +1,11 @@
+{
+	"dex_number": 288,
+	"german_name": "Muntier",
+	"english_name": "Vigoroth",
+	"types": ["NORMAL"],
+	"Fähigkeiten": "",
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [80, 80, 80, 55, 55, 90]
+}

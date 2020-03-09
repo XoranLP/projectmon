@@ -1,0 +1,11 @@
+{
+	"dex_number": 249,
+	"german_name": "Lugia",
+	"english_name": "Lugia",
+	"types": ["PSYCHIC", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Multischuppe"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [106, 90, 130, 90, 154, 110]
+}

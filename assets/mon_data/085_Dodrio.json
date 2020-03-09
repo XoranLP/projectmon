@@ -1,0 +1,11 @@
+{
+	"dex_number": 85,
+	"german_name": "Dodri",
+	"english_name": "Dodrio",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Angsthase", "Frühwecker", "Fußangel"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [60, 110, 70, 60, 60, 110]
+}

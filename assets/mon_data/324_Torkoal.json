@@ -1,0 +1,11 @@
+{
+	"dex_number": 324,
+	"german_name": "Qurtel",
+	"english_name": "Torkoal",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Pulverrauch", "Dürre ", "(ab 7. Gen.)", "Panzerhaut"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [70, 85, 140, 85, 70, 20]
+}

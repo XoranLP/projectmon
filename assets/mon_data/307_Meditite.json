@@ -1,0 +1,11 @@
+{
+	"dex_number": 307,
+	"german_name": "Meditie",
+	"english_name": "Meditite",
+	"types": ["FIGHTING", "PSYCHIC"],
+	"Fähigkeiten": ["Mentalkraft", "Telepathie"],
+	"Fangrate": 180,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [30, 40, 55, 40, 55, 60]
+}

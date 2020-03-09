@@ -1,0 +1,11 @@
+{
+	"dex_number": 41,
+	"german_name": "Zubat",
+	"english_name": "Zubat",
+	"types": ["POISON", "FLYING"],
+	"Fähigkeiten": ["Konzentrator", "Schwebedurch"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 45, 35, 30, 40, 55]
+}

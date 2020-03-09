@@ -1,0 +1,11 @@
+{
+	"dex_number": 290,
+	"german_name": "Nincada",
+	"english_name": "Nincada",
+	"types": ["BUG", "GROUND"],
+	"Fähigkeiten": ["Facettenauge", "Angsthase"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [31, 45, 90, 30, 30, 40]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 434,
+	"german_name": "Skunkapuh",
+	"english_name": "Stunky",
+	"types": ["POISON", "DARK"],
+	"Fähigkeiten": ["Duftnote", "Finalschlag", "Adlerauge"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [63, 63, 47, 41, 41, 74]
+}

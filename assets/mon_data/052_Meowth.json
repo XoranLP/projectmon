@@ -1,0 +1,11 @@
+{
+	"dex_number": 52,
+	"german_name": "Mauzi",
+	"english_name": "Meowth",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Mitnahme", "Techniker", "Anspannung", "Mitnahme", "(Alola)", "Techniker", "(Alola)", "Hasenfuß", "(VF Alola)", "Mitnahme", "(Galar)", "Krallenwucht", "(Galar)", "Anspannung", "(VF Galar)"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [40, 45, 35, 40, 40, 90]
+}

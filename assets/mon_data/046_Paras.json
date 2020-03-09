@@ -1,0 +1,11 @@
+{
+	"dex_number": 46,
+	"german_name": "Paras",
+	"english_name": "Paras",
+	"types": ["BUG", "GRASS"],
+	"Fähigkeiten": ["Sporenwirt", "Trockenheit", "Feuchtigkeit"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "BUG"],
+	"Stats": [35, 70, 55, 45, 55, 25]
+}

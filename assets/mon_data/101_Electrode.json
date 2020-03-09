@@ -1,0 +1,11 @@
+{
+	"dex_number": 101,
+	"german_name": "Lektrobal",
+	"english_name": "Electrode",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Lärmschutz", "Statik", "Finalschlag"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [60, 50, 70, 80, 80, 150]
+}

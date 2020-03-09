@@ -1,0 +1,11 @@
+{
+	"dex_number": 177,
+	"german_name": "Natu",
+	"english_name": "Natu",
+	"types": ["PSYCHIC", "FLYING"],
+	"Fähigkeiten": ["Synchro", "Frühwecker", "Magiespiegel"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 50, 45, 70, 45, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 159,
+	"german_name": "Tyracroc",
+	"english_name": "Croconaw",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [65, 80, 80, 59, 63, 58]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 24,
+	"german_name": "Arbok",
+	"english_name": "Arbok",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Bedroher", "Expidermis", "Anspannung"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "DRAGON"],
+	"Stats": [60, 95, 69, 65, 79, 80]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 232,
+	"german_name": "Donphan",
+	"english_name": "Donphan",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Robustheit", "Sandschleier"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [90, 120, 120, 60, 60, 50]
+}

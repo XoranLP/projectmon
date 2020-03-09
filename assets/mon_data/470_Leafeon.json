@@ -1,0 +1,11 @@
+{
+	"dex_number": 470,
+	"german_name": "Folipurba",
+	"english_name": "Leafeon",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Floraschild", "Chlorophyll"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 110, 130, 60, 65, 95]
+}

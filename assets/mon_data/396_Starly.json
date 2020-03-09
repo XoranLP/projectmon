@@ -1,0 +1,11 @@
+{
+	"dex_number": 396,
+	"german_name": "Staralili",
+	"english_name": "Starly",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Achtlos"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 55, 30, 30, 30, 60]
+}

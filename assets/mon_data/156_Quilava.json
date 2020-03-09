@@ -1,0 +1,11 @@
+{
+	"dex_number": 156,
+	"german_name": "Igelavar",
+	"english_name": "Quilava",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Großbrand", "Feuerfänger"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [58, 64, 58, 80, 65, 80]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 325,
+	"german_name": "Spoink",
+	"english_name": "Spoink",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Speckschicht", "Tempomacher", "Völlerei"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 25, 35, 70, 80, 60]
+}

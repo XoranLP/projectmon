@@ -1,0 +1,11 @@
+{
+	"dex_number": 146,
+	"german_name": "Lavados",
+	"english_name": "Moltres",
+	"types": ["FIRE", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Flammkörper"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 100, 90, 125, 85, 90]
+}

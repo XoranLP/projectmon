@@ -1,0 +1,11 @@
+{
+	"dex_number": 206,
+	"german_name": "Dummisel",
+	"english_name": "Dunsparce",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Edelmut", "Angsthase", "Hasenfuß"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [100, 70, 70, 65, 65, 45]
+}

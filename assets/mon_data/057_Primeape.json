@@ -1,0 +1,11 @@
+{
+	"dex_number": 57,
+	"german_name": "Rasaff",
+	"english_name": "Primeape",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Munterkeit", "Kurzschluss", "Siegeswille"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [65, 105, 60, 60, 70, 95]
+}

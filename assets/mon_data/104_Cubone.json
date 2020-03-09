@@ -1,0 +1,11 @@
+{
+	"dex_number": 104,
+	"german_name": "Tragosso",
+	"english_name": "Cubone",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Steinhaupt", "Blitzfänger", "Kampfpanzer"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [50, 50, 95, 40, 50, 35]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 465,
+	"german_name": "Tangoloss",
+	"english_name": "Tangrowth",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Floraschild", "Belebekraft"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [100, 100, 125, 110, 50, 50]
+}

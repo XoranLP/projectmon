@@ -1,0 +1,11 @@
+{
+	"dex_number": 466,
+	"german_name": "Elevoltek",
+	"english_name": "Electivire",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Starthilfe", "Munterkeit"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [75, 123, 67, 95, 85, 95]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 21,
+	"german_name": "Habitak",
+	"english_name": "Spearow",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Superschütze"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 60, 30, 31, 31, 70]
+}

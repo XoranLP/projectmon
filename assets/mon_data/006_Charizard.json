@@ -1,0 +1,11 @@
+{
+	"dex_number": 6,
+	"german_name": "Glurak",
+	"english_name": "Charizard",
+	"types": ["FIRE", "FLYING"],
+	"Fähigkeiten": ["Großbrand", "Solarkraft", "Krallenwucht", "Mega X", "Dürre", "Mega Y"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [78, 84, 78, 109, 85, 100]
+}

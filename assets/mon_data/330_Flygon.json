@@ -1,0 +1,11 @@
+{
+	"dex_number": 330,
+	"german_name": "Libelldra",
+	"english_name": "Flygon",
+	"types": ["GROUND", "DRAGON"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG", "DRAGON"],
+	"Stats": [80, 100, 80, 80, 80, 100]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 153,
+	"german_name": "Lorblatt",
+	"english_name": "Bayleef",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Floraschild"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [60, 62, 80, 63, 80, 60]
+}

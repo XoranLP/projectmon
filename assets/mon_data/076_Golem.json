@@ -1,0 +1,11 @@
+{
+	"dex_number": 76,
+	"german_name": "Geowaz",
+	"english_name": "Golem",
+	"types": ["ROCK", "GROUND"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Sandschleier", "Magnetfalle", "(Alola)", "Robustheit", "(Alola)", "Elektrohaut", "(VF Alola)"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [80, 120, 130, 55, 65, 45]
+}

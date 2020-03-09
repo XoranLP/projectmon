@@ -1,0 +1,11 @@
+{
+	"dex_number": 336,
+	"german_name": "Vipitis",
+	"english_name": "Seviper",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Expidermis", "Schwebedurch"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "DRAGON"],
+	"Stats": [73, 100, 60, 100, 60, 65]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 115,
+	"german_name": "Kangama",
+	"english_name": "Kangaskhan",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Frühwecker", "Rauflust", "Konzentrator", "Familienbande", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [105, 95, 80, 40, 80, 90]
+}

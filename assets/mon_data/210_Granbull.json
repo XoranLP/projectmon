@@ -1,0 +1,11 @@
+{
+	"dex_number": 210,
+	"german_name": "Granbull",
+	"english_name": "Granbull",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Bedroher", "Rasanz", "Hasenfuß"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [90, 120, 75, 60, 60, 45]
+}

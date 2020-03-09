@@ -1,0 +1,11 @@
+{
+	"dex_number": 163,
+	"german_name": "Hoothoot",
+	"english_name": "Hoothoot",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Insomnia", "Adlerauge", "Aufwertung"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [60, 30, 30, 36, 56, 50]
+}

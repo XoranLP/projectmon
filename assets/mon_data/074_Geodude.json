@@ -1,0 +1,11 @@
+{
+	"dex_number": 74,
+	"german_name": "Kleinstein",
+	"english_name": "Geodude",
+	"types": ["ROCK", "GROUND"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Sandschleier", "Magnetfalle", "(Alola)", "Robustheit", "(Alola)", "Elektrohaut", "(VF Alola)"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [40, 80, 100, 30, 30, 20]
+}

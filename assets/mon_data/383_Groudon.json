@@ -1,0 +1,11 @@
+{
+	"dex_number": 383,
+	"german_name": "Groudon",
+	"english_name": "Groudon",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Dürre", "Endland", "Proto"],
+	"Fangrate": 5,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 150, 140, 100, 90, 90]
+}

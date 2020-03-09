@@ -1,0 +1,11 @@
+{
+	"dex_number": 80,
+	"german_name": "Lahmus",
+	"english_name": "Slowbro",
+	"types": ["WATER", "PSYCHIC"],
+	"Fähigkeiten": ["Dösigkeit", "Tempomacher", "Belebekraft", "Panzerhaut", "Mega"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [95, 75, 110, 100, 80, 30]
+}

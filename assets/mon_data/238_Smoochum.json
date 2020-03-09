@@ -1,0 +1,11 @@
+{
+	"dex_number": 238,
+	"german_name": "Kussilla",
+	"english_name": "Smoochum",
+	"types": ["ICE", "PSYCHIC"],
+	"Fähigkeiten": ["Dösigkeit", "Vorwarnung", "Hydration"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [45, 30, 15, 85, 65, 65]
+}

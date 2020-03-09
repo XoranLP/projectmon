@@ -1,0 +1,11 @@
+{
+	"dex_number": 93,
+	"german_name": "Alpollo",
+	"english_name": "Haunter",
+	"types": ["GHOST", "POISON"],
+	"Fähigkeiten": "",
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [45, 50, 45, 115, 55, 95]
+}

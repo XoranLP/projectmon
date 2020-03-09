@@ -1,0 +1,11 @@
+{
+	"dex_number": 365,
+	"german_name": "Walraisa",
+	"english_name": "Walrein",
+	"types": ["ICE", "WATER"],
+	"Fähigkeiten": ["Speckschicht", "Eishaut", "Dösigkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD", "WATER1"],
+	"Stats": [110, 80, 90, 95, 90, 65]
+}

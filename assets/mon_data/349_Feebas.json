@@ -1,0 +1,11 @@
+{
+	"dex_number": 349,
+	"german_name": "Barschwa",
+	"english_name": "Feebas",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Dösigkeit ", "(ab 6. Gen.)", "Anpassung"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [20, 15, 20, 10, 55, 80]
+}

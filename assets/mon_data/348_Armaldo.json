@@ -1,0 +1,11 @@
+{
+	"dex_number": 348,
+	"german_name": "Armaldo",
+	"english_name": "Armaldo",
+	"types": ["ROCK", "BUG"],
+	"Fähigkeiten": ["Kampfpanzer", "Wassertempo"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [75, 125, 100, 70, 80, 45]
+}

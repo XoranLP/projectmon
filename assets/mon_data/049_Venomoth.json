@@ -1,0 +1,11 @@
+{
+	"dex_number": 49,
+	"german_name": "Omot",
+	"english_name": "Venomoth",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Puderabwehr", "Aufwertung", "Wunderhaut"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [70, 65, 60, 90, 75, 90]
+}

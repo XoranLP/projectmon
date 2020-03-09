@@ -1,0 +1,11 @@
+{
+	"dex_number": 416,
+	"german_name": "Honweisel",
+	"english_name": "Vespiquen",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Anspannung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [70, 80, 102, 80, 102, 40]
+}

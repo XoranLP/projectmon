@@ -1,0 +1,11 @@
+{
+	"dex_number": 173,
+	"german_name": "Pii",
+	"english_name": "Cleffa",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Magieschild", "Freundeshut"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [50, 25, 28, 45, 55, 15]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 71,
+	"german_name": "Sarzenia",
+	"english_name": "Victreebel",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Chlorophyll", "Völlerei"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [80, 105, 65, 100, 70, 70]
+}

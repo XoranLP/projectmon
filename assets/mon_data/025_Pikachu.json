@@ -1,0 +1,11 @@
+{
+	"dex_number": 25,
+	"german_name": "Pikachu",
+	"english_name": "Pikachu",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Blitzfänger"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [35, 55, 40, 50, 50, 90]
+}

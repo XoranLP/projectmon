@@ -1,0 +1,11 @@
+{
+	"dex_number": 478,
+	"german_name": "Frosdedje",
+	"english_name": "Froslass",
+	"types": ["ICE", "GHOST"],
+	"Fähigkeiten": ["Schneemantel", "Tastfluch"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FAIRY", "MINERAL"],
+	"Stats": [70, 80, 70, 80, 70, 110]
+}

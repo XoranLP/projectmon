@@ -1,0 +1,11 @@
+{
+	"dex_number": 425,
+	"german_name": "Driftlon",
+	"english_name": "Drifloon",
+	"types": ["GHOST", "FLYING"],
+	"Fähigkeiten": ["Finalschlag", "Entlastung", "Hitzewahn"],
+	"Fangrate": 125,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [90, 50, 34, 60, 44, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 481,
+	"german_name": "Vesprit",
+	"english_name": "Mesprit",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [80, 105, 105, 105, 105, 80]
+}

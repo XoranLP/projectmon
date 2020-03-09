@@ -1,0 +1,11 @@
+{
+	"dex_number": 451,
+	"german_name": "Pionskora",
+	"english_name": "Skorupi",
+	"types": ["POISON", "BUG"],
+	"Fähigkeiten": ["Kampfpanzer", "Superschütze", "Adlerauge"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG", "WATER3"],
+	"Stats": [40, 50, 90, 30, 55, 65]
+}

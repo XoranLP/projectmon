@@ -1,0 +1,11 @@
+{
+	"dex_number": 382,
+	"german_name": "Kyogre",
+	"english_name": "Kyogre",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Niesel", "Urmeer", "Proto"],
+	"Fangrate": 5,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 100, 90, 150, 140, 90]
+}

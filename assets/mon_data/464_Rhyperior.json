@@ -1,0 +1,11 @@
+{
+	"dex_number": 464,
+	"german_name": "Rihornior",
+	"english_name": "Rhyperior",
+	"types": ["GROUND", "ROCK"],
+	"Fähigkeiten": ["Blitzfänger", "Felskern", "Achtlos"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [115, 140, 130, 55, 55, 40]
+}

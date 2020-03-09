@@ -1,0 +1,11 @@
+{
+	"dex_number": 33,
+	"german_name": "Nidorino",
+	"english_name": "Nidorino",
+	"types": ["POISON"],
+	"Fähigkeiten": ["Giftdorn", "Rivalität", "Übereifer"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [61, 72, 57, 55, 55, 65]
+}

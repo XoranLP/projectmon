@@ -1,0 +1,11 @@
+{
+	"dex_number": 17,
+	"german_name": "Tauboga",
+	"english_name": "Pidgeotto",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Fußangel", "Brustbieter"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [63, 60, 55, 50, 50, 71]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 86,
+	"german_name": "Jurob",
+	"english_name": "Seel",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Speckschicht", "Hydration", "Eishaut"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [65, 45, 55, 45, 70, 45]
+}

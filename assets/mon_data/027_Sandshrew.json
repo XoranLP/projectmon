@@ -1,0 +1,11 @@
+{
+	"dex_number": 27,
+	"german_name": "Sandan",
+	"english_name": "Sandshrew",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Sandscharrer", "Schneemantel", "(Alola)", "Schneescharrer", "(VF Alola)"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [50, 75, 85, 20, 30, 40]
+}

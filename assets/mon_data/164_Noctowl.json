@@ -1,0 +1,11 @@
+{
+	"dex_number": 164,
+	"german_name": "Noctuh",
+	"english_name": "Noctowl",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Insomnia", "Adlerauge", "Aufwertung"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [100, 50, 50, 86, 96, 70]
+}

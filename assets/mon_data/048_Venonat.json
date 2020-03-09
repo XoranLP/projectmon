@@ -1,0 +1,11 @@
+{
+	"dex_number": 48,
+	"german_name": "Bluzuk",
+	"english_name": "Venonat",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Facettenauge", "Aufwertung", "Angsthase"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [60, 55, 50, 40, 55, 45]
+}

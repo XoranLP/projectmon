@@ -1,0 +1,11 @@
+{
+	"dex_number": 448,
+	"german_name": "Lucario",
+	"english_name": "Lucario",
+	"types": ["FIGHTING", "STEEL"],
+	"Fähigkeiten": ["Felsenfest", "Konzentrator", "Redlichkeit", "Anpassung", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD", "HUMANOID"],
+	"Stats": [70, 110, 70, 115, 70, 90]
+}

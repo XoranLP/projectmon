@@ -1,0 +1,11 @@
+{
+	"dex_number": 490,
+	"german_name": "Manaphy",
+	"english_name": "Manaphy",
+	"types": ["WATER"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FAIRY"],
+	"Stats": [100, 100, 100, 100, 100, 100]
+}

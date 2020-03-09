@@ -1,0 +1,11 @@
+{
+	"dex_number": 328,
+	"german_name": "Knacklion",
+	"english_name": "Trapinch",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Scherenmacht", "Ausweglos", "Rohe Gewalt"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG", "DRAGON"],
+	"Stats": [45, 100, 45, 45, 45, 10]
+}

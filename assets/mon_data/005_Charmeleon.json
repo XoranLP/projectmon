@@ -1,0 +1,11 @@
+{
+	"dex_number": 5,
+	"german_name": "Glutexo",
+	"english_name": "Charmeleon",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Großbrand", "Solarkraft"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [58, 64, 58, 80, 65, 80]
+}

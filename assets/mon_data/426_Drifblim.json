@@ -1,0 +1,11 @@
+{
+	"dex_number": 426,
+	"german_name": "Drifzepeli",
+	"english_name": "Drifblim",
+	"types": ["GHOST", "FLYING"],
+	"Fähigkeiten": ["Finalschlag", "Entlastung", "Hitzewahn"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [150, 80, 44, 90, 54, 80]
+}

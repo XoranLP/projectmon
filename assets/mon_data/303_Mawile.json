@@ -1,0 +1,11 @@
+{
+	"dex_number": 303,
+	"german_name": "Flunkifer",
+	"english_name": "Mawile",
+	"types": ["STEEL", "FAIRY"],
+	"Fähigkeiten": ["Scherenmacht", "Bedroher", "Rohe Gewalt", "Kraftkoloss", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FAIRY", "FIELD"],
+	"Stats": [50, 85, 85, 55, 55, 50]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 315,
+	"german_name": "Roselia",
+	"english_name": "Roselia",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Innere Kraft", "Giftdorn", "Floraschild"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [50, 60, 45, 100, 80, 65]
+}

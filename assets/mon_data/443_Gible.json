@@ -1,0 +1,11 @@
+{
+	"dex_number": 443,
+	"german_name": "Kaumalat",
+	"english_name": "Gible",
+	"types": ["DRAGON", "GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Rauhaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [58, 70, 45, 40, 45, 42]
+}

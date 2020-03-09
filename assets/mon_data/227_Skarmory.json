@@ -1,0 +1,11 @@
+{
+	"dex_number": 227,
+	"german_name": "Panzaeron",
+	"english_name": "Skarmory",
+	"types": ["STEEL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Robustheit", "Bruchrüstung"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [65, 80, 140, 40, 70, 70]
+}

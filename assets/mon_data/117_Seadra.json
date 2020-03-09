@@ -1,0 +1,11 @@
+{
+	"dex_number": 117,
+	"german_name": "Seemon",
+	"english_name": "Seadra",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Giftdorn", "Superschütze", "Feuchtigkeit"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [55, 65, 95, 95, 45, 85]
+}

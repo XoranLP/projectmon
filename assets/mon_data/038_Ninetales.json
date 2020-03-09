@@ -1,0 +1,11 @@
+{
+	"dex_number": 38,
+	"german_name": "Vulnona",
+	"english_name": "Ninetales",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Feuerfänger", "Dürre", "Schneemantel", "(Alola)", "Hagelalarm", "(VF Alola)"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [73, 76, 75, 81, 100, 100]
+}

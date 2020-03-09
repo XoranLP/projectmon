@@ -1,0 +1,11 @@
+{
+	"dex_number": 446,
+	"german_name": "Mampfaxo",
+	"english_name": "Munchlax",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Speckschicht", "Mitnahme", "Völlerei"],
+	"Fangrate": 50,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [135, 85, 40, 40, 85, 5]
+}

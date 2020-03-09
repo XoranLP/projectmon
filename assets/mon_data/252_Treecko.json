@@ -1,0 +1,11 @@
+{
+	"dex_number": 252,
+	"german_name": "Geckarbor",
+	"english_name": "Treecko",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Entlastung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [40, 45, 35, 65, 55, 70]
+}

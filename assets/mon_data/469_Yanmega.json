@@ -1,0 +1,11 @@
+{
+	"dex_number": 469,
+	"german_name": "Yanmega",
+	"english_name": "Yanmega",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Temposchub", "Aufwertung", "Schnüffler"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [86, 76, 86, 116, 56, 95]
+}

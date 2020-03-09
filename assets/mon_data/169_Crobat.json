@@ -1,0 +1,11 @@
+{
+	"dex_number": 169,
+	"german_name": "Iksbat",
+	"english_name": "Crobat",
+	"types": ["POISON", "FLYING"],
+	"Fähigkeiten": ["Konzentrator", "Schwebedurch"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [85, 90, 80, 70, 80, 130]
+}

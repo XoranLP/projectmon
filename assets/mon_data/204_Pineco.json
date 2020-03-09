@@ -1,0 +1,11 @@
+{
+	"dex_number": 204,
+	"german_name": "Tannza",
+	"english_name": "Pineco",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Robustheit", "Partikelschutz"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [50, 65, 90, 35, 35, 15]
+}

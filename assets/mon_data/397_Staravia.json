@@ -1,0 +1,11 @@
+{
+	"dex_number": 397,
+	"german_name": "Staravia",
+	"english_name": "Staravia",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Bedroher", "Achtlos"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [55, 75, 50, 40, 40, 80]
+}

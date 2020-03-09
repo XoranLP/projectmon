@@ -1,0 +1,11 @@
+{
+	"dex_number": 248,
+	"german_name": "Despotar",
+	"english_name": "Tyranitar",
+	"types": ["ROCK", "DARK"],
+	"Fähigkeiten": ["Sandsturm", "Anspannung", "Sandsturm", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [100, 134, 110, 95, 100, 61]
+}

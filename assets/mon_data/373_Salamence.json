@@ -1,0 +1,11 @@
+{
+	"dex_number": 373,
+	"german_name": "Brutalanda",
+	"english_name": "Salamence",
+	"types": ["DRAGON", "FLYING"],
+	"Fähigkeiten": ["Bedroher", "Hochmut", "Zenithaut", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["DRAGON"],
+	"Stats": [95, 135, 80, 110, 80, 100]
+}

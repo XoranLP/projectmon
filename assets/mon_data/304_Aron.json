@@ -1,0 +1,11 @@
+{
+	"dex_number": 304,
+	"german_name": "Stollunior",
+	"english_name": "Aron",
+	"types": ["STEEL", "ROCK"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Schwermetall"],
+	"Fangrate": 180,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [50, 70, 100, 40, 40, 30]
+}

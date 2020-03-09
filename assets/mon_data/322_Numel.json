@@ -1,0 +1,11 @@
+{
+	"dex_number": 322,
+	"german_name": "Camaub",
+	"english_name": "Numel",
+	"types": ["FIRE", "GROUND"],
+	"Fähigkeiten": ["Dösigkeit", "Wankelmut", "Tempomacher"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 60, 40, 65, 45, 35]
+}

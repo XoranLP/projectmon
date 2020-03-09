@@ -1,0 +1,11 @@
+{
+	"dex_number": 444,
+	"german_name": "Knarksel",
+	"english_name": "Gabite",
+	"types": ["DRAGON", "GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Rauhaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [68, 90, 65, 50, 55, 82]
+}

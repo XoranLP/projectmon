@@ -1,0 +1,11 @@
+{
+	"dex_number": 211,
+	"german_name": "Baldorfish",
+	"english_name": "Qwilfish",
+	"types": ["WATER", "POISON"],
+	"Fähigkeiten": ["Giftdorn", "Wassertempo", "Bedroher"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [65, 95, 85, 55, 55, 85]
+}

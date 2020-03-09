@@ -1,0 +1,11 @@
+{
+	"dex_number": 50,
+	"german_name": "Digda",
+	"english_name": "Diglett",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Ausweglos", "Sandgewalt", "Sandschleier", "(Alola)", "Lockenkopf", "(Alola)", "Sandgewalt", "(VF Alola)"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [10, 55, 25, 35, 45, 95]
+}

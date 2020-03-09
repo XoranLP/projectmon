@@ -1,0 +1,11 @@
+{
+	"dex_number": 251,
+	"german_name": "Celebi",
+	"english_name": "Celebi",
+	"types": ["PSYCHIC", "GRASS"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 100, 100, 100, 100, 100]
+}

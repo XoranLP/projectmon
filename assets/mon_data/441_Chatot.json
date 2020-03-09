@@ -1,0 +1,11 @@
+{
+	"dex_number": 441,
+	"german_name": "Plaudagei",
+	"english_name": "Chatot",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Fußangel", "Brustbieter"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [76, 65, 45, 92, 42, 91]
+}

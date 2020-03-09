@@ -1,0 +1,11 @@
+{
+	"dex_number": 492,
+	"german_name": "Shaymin",
+	"english_name": "Shaymin",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Innere Kraft", "Edelmut", "(Zenitform)"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 100, 100, 100, 100, 100]
+}

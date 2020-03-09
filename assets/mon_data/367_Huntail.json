@@ -1,0 +1,11 @@
+{
+	"dex_number": 367,
+	"german_name": "Aalabyss",
+	"english_name": "Huntail",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Wassertempo", "Aquahülle"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [55, 104, 105, 94, 75, 52]
+}

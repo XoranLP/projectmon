@@ -1,0 +1,11 @@
+{
+	"dex_number": 462,
+	"german_name": "Magnezone",
+	"english_name": "Magnezone",
+	"types": ["ELECTRIC", "STEEL"],
+	"Fähigkeiten": ["Magnetfalle", "Robustheit", "Analyse"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [70, 70, 115, 130, 90, 60]
+}

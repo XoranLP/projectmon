@@ -1,0 +1,11 @@
+{
+	"dex_number": 437,
+	"german_name": "Bronzong",
+	"english_name": "Bronzong",
+	"types": ["STEEL", "PSYCHIC"],
+	"Fähigkeiten": ["Schwebe", "Hitzeschutz", "Schwermetall"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [67, 89, 116, 79, 116, 33]
+}

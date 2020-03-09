@@ -1,0 +1,11 @@
+{
+	"dex_number": 487,
+	"german_name": "Giratina",
+	"english_name": "Giratina",
+	"types": ["GHOST", "DRAGON"],
+	"Fähigkeiten": ["Erzwinger", "Telepathie", "Schwebe", "(Urform)"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [150, 100, 120, 100, 120, 90]
+}

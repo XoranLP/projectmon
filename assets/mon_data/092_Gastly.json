@@ -1,0 +1,11 @@
+{
+	"dex_number": 92,
+	"german_name": "Nebulak",
+	"english_name": "Gastly",
+	"types": ["GHOST", "POISON"],
+	"Fähigkeiten": "",
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [30, 35, 30, 100, 35, 80]
+}

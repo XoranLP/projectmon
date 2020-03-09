@@ -1,0 +1,11 @@
+{
+	"dex_number": 113,
+	"german_name": "Chaneira",
+	"english_name": "Chansey",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Innere Kraft", "Edelmut", "Heilherz"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [250, 5, 5, 35, 105, 50]
+}

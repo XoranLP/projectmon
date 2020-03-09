@@ -1,0 +1,11 @@
+{
+	"dex_number": 379,
+	"german_name": "Registeel",
+	"english_name": "Registeel",
+	"types": ["STEEL"],
+	"Fähigkeiten": ["Neutraltorso", "Leichtmetall"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [80, 75, 150, 75, 150, 50]
+}

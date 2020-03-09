@@ -1,0 +1,11 @@
+{
+	"dex_number": 230,
+	"german_name": "Seedraking",
+	"english_name": "Kingdra",
+	"types": ["WATER", "DRAGON"],
+	"Fähigkeiten": ["Wassertempo", "Superschütze", "Feuchtigkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [75, 95, 95, 95, 95, 85]
+}

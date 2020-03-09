@@ -1,0 +1,11 @@
+{
+	"dex_number": 302,
+	"german_name": "Zobiris",
+	"english_name": "Sableye",
+	"types": ["DARK", "GHOST"],
+	"Fähigkeiten": ["Adlerauge", "Zeitspiel", "Strolch", "Magiespiegel", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [50, 75, 75, 65, 65, 50]
+}

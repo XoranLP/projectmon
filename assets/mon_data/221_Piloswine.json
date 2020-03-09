@@ -1,0 +1,11 @@
+{
+	"dex_number": 221,
+	"german_name": "Keifel",
+	"english_name": "Piloswine",
+	"types": ["ICE", "GROUND"],
+	"Fähigkeiten": ["Dösigkeit", "Schneemantel", "Speckschicht"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [100, 100, 80, 60, 60, 50]
+}

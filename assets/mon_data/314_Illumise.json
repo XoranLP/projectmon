@@ -1,0 +1,11 @@
+{
+	"dex_number": 314,
+	"german_name": "Illumise",
+	"english_name": "Illumise",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Dösigkeit", "Aufwertung", "Strolch"],
+	"Fangrate": 150,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG", "HUMANOID"],
+	"Stats": [65, 47, 75, 73, 85, 85]
+}

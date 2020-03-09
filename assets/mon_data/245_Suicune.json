@@ -1,0 +1,11 @@
+{
+	"dex_number": 245,
+	"german_name": "Suicune",
+	"english_name": "Suicune",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Erzwinger", "H2O-Absorber", " bis ", "6. Gen.", "Konzentrator", "; ab ", "7. Gen."],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 75, 115, 90, 115, 85]
+}

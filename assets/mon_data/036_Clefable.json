@@ -1,0 +1,11 @@
+{
+	"dex_number": 36,
+	"german_name": "Pixi",
+	"english_name": "Clefable",
+	"types": ["FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Magieschild", "Unkenntnis"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [95, 70, 73, 95, 90, 60]
+}

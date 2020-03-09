@@ -1,0 +1,11 @@
+{
+	"dex_number": 149,
+	"german_name": "Dragoran",
+	"english_name": "Dragonite",
+	"types": ["DRAGON", "FLYING"],
+	"Fähigkeiten": ["Konzentrator", "Multischuppe"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["WATER1", "DRAGON"],
+	"Stats": [91, 134, 95, 100, 100, 80]
+}

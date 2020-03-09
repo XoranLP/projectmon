@@ -1,0 +1,11 @@
+{
+	"dex_number": 297,
+	"german_name": "Hariyama",
+	"english_name": "Hariyama",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Speckschicht", "Adrenalin", "Rohe Gewalt"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [144, 120, 60, 40, 60, 50]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 281,
+	"german_name": "Kirlia",
+	"english_name": "Kirlia",
+	"types": ["PSYCHIC", "FAIRY"],
+	"Fähigkeiten": ["Synchro", "Erfassen", "Telepathie"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [38, 35, 35, 65, 55, 50]
+}

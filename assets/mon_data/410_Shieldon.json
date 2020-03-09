@@ -1,0 +1,11 @@
+{
+	"dex_number": 410,
+	"german_name": "Schilterus",
+	"english_name": "Shieldon",
+	"types": ["ROCK", "STEEL"],
+	"Fähigkeiten": ["Robustheit", "Lärmschutz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [30, 42, 118, 42, 88, 30]
+}

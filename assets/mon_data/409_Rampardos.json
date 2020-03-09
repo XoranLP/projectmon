@@ -1,0 +1,11 @@
+{
+	"dex_number": 409,
+	"german_name": "Rameidon",
+	"english_name": "Rampardos",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Überbrückung", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [97, 165, 60, 65, 50, 58]
+}

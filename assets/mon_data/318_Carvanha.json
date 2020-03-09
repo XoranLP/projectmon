@@ -1,0 +1,11 @@
+{
+	"dex_number": 318,
+	"german_name": "Kanivanha",
+	"english_name": "Carvanha",
+	"types": ["WATER", "DARK"],
+	"Fähigkeiten": ["Rauhaut", "Temposchub"],
+	"Fangrate": 225,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [45, 90, 20, 65, 20, 65]
+}

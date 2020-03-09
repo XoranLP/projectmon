@@ -1,0 +1,11 @@
+{
+	"dex_number": 68,
+	"german_name": "Machomei",
+	"english_name": "Machamp",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Adrenalin", "Schildlos", "Felsenfest"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [90, 130, 80, 65, 85, 55]
+}

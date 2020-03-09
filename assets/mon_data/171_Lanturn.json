@@ -1,0 +1,11 @@
+{
+	"dex_number": 171,
+	"german_name": "Lanturn",
+	"english_name": "Lanturn",
+	"types": ["WATER", "ELECTRIC"],
+	"Fähigkeiten": ["Voltabsorber", "Erleuchtung", "H2O-Absorber"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER2"],
+	"Stats": [125, 58, 58, 76, 76, 67]
+}

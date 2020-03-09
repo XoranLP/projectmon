@@ -1,0 +1,11 @@
+{
+	"dex_number": 405,
+	"german_name": "Luxtra",
+	"english_name": "Luxray",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Rivalität", "Bedroher", "Adrenalin"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [80, 120, 79, 95, 79, 70]
+}

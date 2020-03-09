@@ -1,0 +1,11 @@
+{
+	"dex_number": 436,
+	"german_name": "Bronzel",
+	"english_name": "Bronzor",
+	"types": ["STEEL", "PSYCHIC"],
+	"Fähigkeiten": ["Schwebe", "Hitzeschutz", "Schwermetall"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [57, 24, 86, 24, 86, 23]
+}

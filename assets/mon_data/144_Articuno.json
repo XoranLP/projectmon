@@ -1,0 +1,11 @@
+{
+	"dex_number": 144,
+	"german_name": "Arktos",
+	"english_name": "Articuno",
+	"types": ["ICE", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Schneemantel"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [90, 85, 100, 95, 125, 85]
+}

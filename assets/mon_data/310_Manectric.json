@@ -1,0 +1,11 @@
+{
+	"dex_number": 310,
+	"german_name": "Voltenso",
+	"english_name": "Manectric",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Statik", "Blitzfänger", "Minus", "Bedroher", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [70, 75, 60, 105, 60, 105]
+}

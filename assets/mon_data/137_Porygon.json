@@ -1,0 +1,11 @@
+{
+	"dex_number": 137,
+	"german_name": "Porygon",
+	"english_name": "Porygon",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Erfassen", "Download", "Analyse"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [65, 60, 70, 85, 75, 40]
+}

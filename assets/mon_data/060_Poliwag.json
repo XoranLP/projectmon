@@ -1,0 +1,11 @@
+{
+	"dex_number": 60,
+	"german_name": "Quapsel",
+	"english_name": "Poliwag",
+	"types": ["WATER"],
+	"Fähigkeiten": ["H2O-Absorber", "Feuchtigkeit", "Wassertempo"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [40, 50, 40, 40, 40, 90]
+}

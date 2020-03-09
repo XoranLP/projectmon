@@ -1,0 +1,11 @@
+{
+	"dex_number": 236,
+	"german_name": "Rabauz",
+	"english_name": "Tyrogue",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Adrenalin", "Felsenfest", "Munterkeit"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [35, 35, 35, 35, 35, 35]
+}

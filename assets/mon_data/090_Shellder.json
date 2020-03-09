@@ -1,0 +1,11 @@
+{
+	"dex_number": 90,
+	"german_name": "Muschas",
+	"english_name": "Shellder",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Panzerhaut", "Wertelink", "Partikelschutz"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [30, 65, 100, 45, 25, 40]
+}

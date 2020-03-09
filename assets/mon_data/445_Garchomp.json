@@ -1,0 +1,11 @@
+{
+	"dex_number": 445,
+	"german_name": "Knakrack",
+	"english_name": "Garchomp",
+	"types": ["DRAGON", "GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Rauhaut", "Sandgewalt", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "DRAGON"],
+	"Stats": [108, 130, 95, 80, 85, 102]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 34,
+	"german_name": "Nidoking",
+	"english_name": "Nidoking",
+	"types": ["POISON", "GROUND"],
+	"Fähigkeiten": ["Giftdorn", "Rivalität", "Rohe Gewalt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [81, 102, 77, 85, 75, 85]
+}

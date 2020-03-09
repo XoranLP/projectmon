@@ -1,0 +1,11 @@
+{
+	"dex_number": 486,
+	"german_name": "Regigigas",
+	"english_name": "Regigigas",
+	"types": ["NORMAL"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [110, 160, 110, 80, 110, 100]
+}

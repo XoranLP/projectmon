@@ -1,0 +1,11 @@
+{
+	"dex_number": 264,
+	"german_name": "Geradaks",
+	"english_name": "Linoone",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Mitnahme", "Völlerei", "Rasanz"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [78, 70, 61, 50, 61, 100]
+}

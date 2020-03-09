@@ -1,0 +1,11 @@
+{
+	"dex_number": 199,
+	"german_name": "Laschoking",
+	"english_name": "Slowking",
+	"types": ["WATER", "PSYCHIC"],
+	"Fähigkeiten": ["Dösigkeit", "Tempomacher", "Belebekraft"],
+	"Fangrate": 70,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [95, 75, 80, 100, 110, 30]
+}

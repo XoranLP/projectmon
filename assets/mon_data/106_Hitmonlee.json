@@ -1,0 +1,11 @@
+{
+	"dex_number": 106,
+	"german_name": "Kicklee",
+	"english_name": "Hitmonlee",
+	"types": ["FIGHTING"],
+	"Fähigkeiten": ["Flexibilität", "Achtlos", "Entlastung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [50, 120, 53, 35, 110, 87]
+}

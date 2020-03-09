@@ -1,0 +1,11 @@
+{
+	"dex_number": 284,
+	"german_name": "Maskeregen",
+	"english_name": "Masquerain",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Bedroher", "Anspannung"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG", "WATER1"],
+	"Stats": [70, 60, 62, 100, 82, 80]
+}

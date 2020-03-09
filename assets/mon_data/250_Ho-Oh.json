@@ -1,0 +1,11 @@
+{
+	"dex_number": 250,
+	"german_name": "Ho-Oh",
+	"english_name": "Ho-Oh",
+	"types": ["FIRE", "FLYING"],
+	"Fähigkeiten": ["Erzwinger", "Belebekraft"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [106, 130, 90, 110, 154, 90]
+}

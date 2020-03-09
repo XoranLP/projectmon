@@ -1,0 +1,11 @@
+{
+	"dex_number": 16,
+	"german_name": "Taubsi",
+	"english_name": "Pidgey",
+	"types": ["NORMAL", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Fußangel", "Brustbieter"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [40, 45, 40, 35, 35, 56]
+}

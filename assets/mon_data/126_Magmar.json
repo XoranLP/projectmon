@@ -1,0 +1,11 @@
+{
+	"dex_number": 126,
+	"german_name": "Magmar",
+	"english_name": "Magmar",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Flammkörper", "Munterkeit"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [65, 95, 57, 100, 85, 93]
+}

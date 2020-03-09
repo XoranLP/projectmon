@@ -1,0 +1,11 @@
+{
+	"dex_number": 188,
+	"german_name": "Hubelupf",
+	"english_name": "Skiploom",
+	"types": ["GRASS", "FLYING"],
+	"Fähigkeiten": ["Chlorophyll", "Floraschild", "Schwebedurch"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "FAIRY"],
+	"Stats": [55, 45, 50, 45, 65, 80]
+}

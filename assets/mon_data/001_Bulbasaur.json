@@ -1,0 +1,11 @@
+{
+	"dex_number": 1,
+	"german_name": "Bisasam",
+	"english_name": "Bulbasaur",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Notdünger", "Chlorophyll"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [45, 49, 49, 65, 65, 45]
+}

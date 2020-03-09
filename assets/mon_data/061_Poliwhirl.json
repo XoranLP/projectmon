@@ -1,0 +1,11 @@
+{
+	"dex_number": 61,
+	"german_name": "Quaputzi",
+	"english_name": "Poliwhirl",
+	"types": ["WATER"],
+	"Fähigkeiten": ["H2O-Absorber", "Feuchtigkeit", "Wassertempo"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [65, 65, 65, 50, 50, 90]
+}

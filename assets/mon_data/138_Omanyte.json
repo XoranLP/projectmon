@@ -1,0 +1,11 @@
+{
+	"dex_number": 138,
+	"german_name": "Amonitas",
+	"english_name": "Omanyte",
+	"types": ["ROCK", "WATER"],
+	"Fähigkeiten": ["Wassertempo", "Panzerhaut", "Bruchrüstung"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "WATER3"],
+	"Stats": [35, 40, 100, 90, 55, 35]
+}

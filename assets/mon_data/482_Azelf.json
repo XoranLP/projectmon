@@ -1,0 +1,11 @@
+{
+	"dex_number": 482,
+	"german_name": "Tobutz",
+	"english_name": "Azelf",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [75, 125, 70, 125, 70, 115]
+}

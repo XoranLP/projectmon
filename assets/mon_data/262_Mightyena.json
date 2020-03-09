@@ -1,0 +1,11 @@
+{
+	"dex_number": 262,
+	"german_name": "Magnayen",
+	"english_name": "Mightyena",
+	"types": ["DARK"],
+	"Fähigkeiten": ["Bedroher", "Rasanz", "Hochmut"],
+	"Fangrate": 127,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [70, 90, 70, 60, 60, 70]
+}

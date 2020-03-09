@@ -1,0 +1,11 @@
+{
+	"dex_number": 155,
+	"german_name": "Feurigel",
+	"english_name": "Cyndaquil",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Großbrand", "Feuerfänger"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [39, 52, 43, 60, 50, 65]
+}

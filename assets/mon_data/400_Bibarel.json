@@ -1,0 +1,11 @@
+{
+	"dex_number": 400,
+	"german_name": "Bidifas",
+	"english_name": "Bibarel",
+	"types": ["NORMAL", "WATER"],
+	"Fähigkeiten": ["Wankelmut", "Unkenntnis", "Gefühlswippe"],
+	"Fangrate": 127,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1", "FIELD"],
+	"Stats": [79, 85, 60, 55, 60, 71]
+}

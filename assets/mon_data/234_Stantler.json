@@ -1,0 +1,11 @@
+{
+	"dex_number": 234,
+	"german_name": "Damhirplex",
+	"english_name": "Stantler",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Bedroher", "Schnüffler", "Vegetarier"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [73, 95, 62, 85, 65, 85]
+}

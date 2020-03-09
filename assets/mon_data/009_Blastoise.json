@@ -1,0 +1,11 @@
+{
+	"dex_number": 9,
+	"german_name": "Turtok",
+	"english_name": "Blastoise",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Sturzbach", "Regengenuss", "Megawumme", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "WATER1"],
+	"Stats": [79, 83, 100, 85, 105, 78]
+}

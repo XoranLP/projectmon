@@ -1,0 +1,11 @@
+{
+	"dex_number": 130,
+	"german_name": "Garados",
+	"english_name": "Gyarados",
+	"types": ["WATER", "FLYING"],
+	"Fähigkeiten": ["Bedroher", "Hochmut", "Überbrückung", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["DRAGON", "WATER2"],
+	"Stats": [95, 125, 79, 60, 100, 81]
+}

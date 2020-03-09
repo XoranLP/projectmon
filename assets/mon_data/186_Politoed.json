@@ -1,0 +1,11 @@
+{
+	"dex_number": 186,
+	"german_name": "Quaxo",
+	"english_name": "Politoed",
+	"types": ["WATER"],
+	"Fähigkeiten": ["H2O-Absorber", "Feuchtigkeit", "Niesel"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER1"],
+	"Stats": [90, 75, 75, 90, 100, 70]
+}

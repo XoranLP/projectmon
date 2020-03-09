@@ -1,0 +1,11 @@
+{
+	"dex_number": 11,
+	"german_name": "Safcon",
+	"english_name": "Metapod",
+	"types": ["BUG"],
+	"Fähigkeiten": "",
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [50, 20, 55, 25, 25, 30]
+}

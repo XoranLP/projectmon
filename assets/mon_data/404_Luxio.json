@@ -1,0 +1,11 @@
+{
+	"dex_number": 404,
+	"german_name": "Luxio",
+	"english_name": "Luxio",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Rivalität", "Bedroher", "Adrenalin"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 85, 49, 60, 49, 60]
+}

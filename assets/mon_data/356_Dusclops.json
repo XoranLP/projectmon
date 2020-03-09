@@ -1,0 +1,11 @@
+{
+	"dex_number": 356,
+	"german_name": "Zwirrklop",
+	"english_name": "Dusclops",
+	"types": ["GHOST"],
+	"Fähigkeiten": ["Erzwinger", "Schnüffler"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [40, 70, 130, 60, 130, 25]
+}

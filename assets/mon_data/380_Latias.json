@@ -1,0 +1,11 @@
+{
+	"dex_number": 380,
+	"german_name": "Latias",
+	"english_name": "Latias",
+	"types": ["DRAGON", "PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 90,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [80, 80, 90, 110, 130, 110]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 242,
+	"german_name": "Heiteira",
+	"english_name": "Blissey",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Innere Kraft", "Edelmut", "Heilherz"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [255, 10, 10, 75, 135, 55]
+}

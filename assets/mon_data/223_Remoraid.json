@@ -1,0 +1,11 @@
+{
+	"dex_number": 223,
+	"german_name": "Remoraid",
+	"english_name": "Remoraid",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Übereifer", "Superschütze", "Gefühlswippe"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "WATER2"],
+	"Stats": [35, 65, 35, 65, 35, 65]
+}

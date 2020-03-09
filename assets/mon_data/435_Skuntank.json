@@ -1,0 +1,11 @@
+{
+	"dex_number": 435,
+	"german_name": "Skuntank",
+	"english_name": "Skuntank",
+	"types": ["POISON", "DARK"],
+	"Fähigkeiten": ["Duftnote", "Finalschlag", "Adlerauge"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [103, 93, 67, 71, 61, 84]
+}

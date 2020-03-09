@@ -1,0 +1,11 @@
+{
+	"dex_number": 424,
+	"german_name": "Ambidiffel",
+	"english_name": "Ambipom",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Techniker", "Mitnahme", "Wertelink"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [75, 100, 66, 60, 66, 115]
+}

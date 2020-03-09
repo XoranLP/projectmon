@@ -1,0 +1,11 @@
+{
+	"dex_number": 360,
+	"german_name": "Isso",
+	"english_name": "Wynaut",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Wegsperre", "Telepathie"],
+	"Fangrate": 125,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [95, 23, 48, 23, 48, 23]
+}

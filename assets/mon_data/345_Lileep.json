@@ -1,0 +1,11 @@
+{
+	"dex_number": 345,
+	"german_name": "Liliep",
+	"english_name": "Lileep",
+	"types": ["ROCK", "GRASS"],
+	"Fähigkeiten": ["Saugnapf", "Sturmsog"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [66, 41, 77, 61, 87, 23]
+}

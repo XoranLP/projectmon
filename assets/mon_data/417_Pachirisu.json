@@ -1,0 +1,11 @@
+{
+	"dex_number": 417,
+	"german_name": "Pachirisu",
+	"english_name": "Pachirisu",
+	"types": ["ELECTRIC"],
+	"Fähigkeiten": ["Angsthase", "Mitnahme", "Voltabsorber"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 100,
+	"Ei-gruppe": ["FIELD", "FAIRY"],
+	"Stats": [60, 45, 70, 45, 90, 95]
+}

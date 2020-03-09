@@ -1,0 +1,11 @@
+{
+	"dex_number": 329,
+	"german_name": "Vibrava",
+	"english_name": "Vibrava",
+	"types": ["GROUND", "DRAGON"],
+	"Fähigkeiten": "",
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG", "DRAGON"],
+	"Stats": [50, 70, 50, 50, 50, 70]
+}

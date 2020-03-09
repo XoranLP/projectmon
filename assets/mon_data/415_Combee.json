@@ -1,0 +1,11 @@
+{
+	"dex_number": 415,
+	"german_name": "Wadribie",
+	"english_name": "Combee",
+	"types": ["BUG", "FLYING"],
+	"Fähigkeiten": ["Honigmaul", "Übereifer"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [30, 30, 42, 30, 42, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 422,
+	"german_name": "Schalellos",
+	"english_name": "Shellos",
+	"types": ["WATER"],
+	"Fähigkeiten": ["Klebekörper", "Sturmsog", "Sandgewalt"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["WATER1", "AMORPHOUS"],
+	"Stats": [76, 48, 48, 57, 62, 34]
+}

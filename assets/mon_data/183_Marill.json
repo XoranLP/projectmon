@@ -1,0 +1,11 @@
+{
+	"dex_number": 183,
+	"german_name": "Marill",
+	"english_name": "Marill",
+	"types": ["WATER", "FAIRY"],
+	"Fähigkeiten": ["Speckschicht", "Kraftkoloss", "Vegetarier"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "WATER1"],
+	"Stats": [70, 20, 50, 20, 50, 40]
+}

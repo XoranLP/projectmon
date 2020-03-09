@@ -1,0 +1,11 @@
+{
+	"dex_number": 228,
+	"german_name": "Hunduster",
+	"english_name": "Houndour",
+	"types": ["DARK", "FIRE"],
+	"Fähigkeiten": ["Frühwecker", "Feuerfänger", "Anspannung"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [45, 60, 30, 80, 50, 65]
+}

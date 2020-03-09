@@ -1,0 +1,11 @@
+{
+	"dex_number": 121,
+	"german_name": "Starmie",
+	"english_name": "Starmie",
+	"types": ["WATER", "PSYCHIC"],
+	"Fähigkeiten": ["Erleuchtung", "Innere Kraft", "Analyse"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["WATER3"],
+	"Stats": [60, 75, 85, 100, 85, 115]
+}

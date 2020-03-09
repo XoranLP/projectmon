@@ -1,0 +1,11 @@
+{
+	"dex_number": 105,
+	"german_name": "Knogga",
+	"english_name": "Marowak",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Steinhaupt", "Blitzfänger", "Kampfpanzer", "Tastfluch", "(Alola)", "Blitzfänger", "(Alola)", "Steinhaupt", "(VF Alola)"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [60, 80, 110, 50, 80, 45]
+}

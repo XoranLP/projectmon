@@ -1,0 +1,11 @@
+{
+	"dex_number": 279,
+	"german_name": "Pelipper",
+	"english_name": "Pelipper",
+	"types": ["WATER", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Niesel ", "(ab 7. Gen.)", "Regengenuss"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING", "WATER1"],
+	"Stats": [60, 50, 100, 95, 70, 65]
+}

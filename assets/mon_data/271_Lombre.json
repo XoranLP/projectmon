@@ -1,0 +1,11 @@
+{
+	"dex_number": 271,
+	"german_name": "Lombrero",
+	"english_name": "Lombre",
+	"types": ["WATER", "GRASS"],
+	"Fähigkeiten": ["Wassertempo", "Regengenuss", "Tempomacher"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "WATER1"],
+	"Stats": [60, 50, 50, 60, 70, 50]
+}

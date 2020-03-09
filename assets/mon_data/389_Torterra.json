@@ -1,0 +1,11 @@
+{
+	"dex_number": 389,
+	"german_name": "Chelterrar",
+	"english_name": "Torterra",
+	"types": ["GRASS", "GROUND"],
+	"Fähigkeiten": ["Notdünger", "Panzerhaut"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["PLANT", "MONSTER"],
+	"Stats": [95, 109, 105, 75, 85, 56]
+}

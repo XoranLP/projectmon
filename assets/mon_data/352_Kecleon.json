@@ -1,0 +1,11 @@
+{
+	"dex_number": 352,
+	"german_name": "Kecleon",
+	"english_name": "Kecleon",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Farbwechsel", "Wandlungskunst"],
+	"Fangrate": 200,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 90, 70, 60, 120, 40]
+}

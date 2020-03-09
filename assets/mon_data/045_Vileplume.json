@@ -1,0 +1,11 @@
+{
+	"dex_number": 45,
+	"german_name": "Giflor",
+	"english_name": "Vileplume",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Chlorophyll", "Sporenwirt"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [75, 80, 85, 110, 90, 50]
+}

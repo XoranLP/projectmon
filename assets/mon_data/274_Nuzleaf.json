@@ -1,0 +1,11 @@
+{
+	"dex_number": 274,
+	"german_name": "Blanas",
+	"english_name": "Nuzleaf",
+	"types": ["GRASS", "DARK"],
+	"Fähigkeiten": ["Chlorophyll", "Frühwecker", "Langfinger"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT", "FIELD"],
+	"Stats": [70, 70, 40, 60, 40, 60]
+}

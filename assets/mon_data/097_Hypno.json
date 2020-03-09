@@ -1,0 +1,11 @@
+{
+	"dex_number": 97,
+	"german_name": "Hypno",
+	"english_name": "Hypno",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Insomnia", "Vorwarnung", "Konzentrator"],
+	"Fangrate": 75,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [85, 73, 70, 73, 115, 67]
+}

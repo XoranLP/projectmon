@@ -1,0 +1,11 @@
+{
+	"dex_number": 480,
+	"german_name": "Selfe",
+	"english_name": "Uxie",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": "",
+	"Fangrate": 3,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [75, 75, 130, 75, 130, 95]
+}

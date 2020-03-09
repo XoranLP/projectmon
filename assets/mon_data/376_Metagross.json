@@ -1,0 +1,11 @@
+{
+	"dex_number": 376,
+	"german_name": "Metagross",
+	"english_name": "Metagross",
+	"types": ["STEEL", "PSYCHIC"],
+	"Fähigkeiten": ["Neutraltorso", "Leichtmetall", "Krallenwucht", "Mega"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MINERAL"],
+	"Stats": [80, 135, 130, 95, 90, 70]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 289,
+	"german_name": "Letarking",
+	"english_name": "Slaking",
+	"types": ["NORMAL"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [150, 160, 100, 95, 65, 100]
+}

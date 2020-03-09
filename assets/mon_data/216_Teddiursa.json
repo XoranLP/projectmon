@@ -1,0 +1,11 @@
+{
+	"dex_number": 216,
+	"german_name": "Teddiursa",
+	"english_name": "Teddiursa",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Mitnahme", "Rasanz", "Honigmaul"],
+	"Fangrate": 120,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [60, 80, 50, 50, 50, 40]
+}

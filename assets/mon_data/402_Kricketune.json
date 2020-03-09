@@ -1,0 +1,11 @@
+{
+	"dex_number": 402,
+	"german_name": "Zirpeise",
+	"english_name": "Kricketune",
+	"types": ["BUG"],
+	"Fähigkeiten": ["Hexaplaga", "Techniker"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [77, 85, 51, 55, 51, 65]
+}

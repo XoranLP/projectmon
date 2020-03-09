@@ -1,0 +1,11 @@
+{
+	"dex_number": 282,
+	"german_name": "Guardevoir",
+	"english_name": "Gardevoir",
+	"types": ["PSYCHIC", "FAIRY"],
+	"Fähigkeiten": ["Synchro", "Erfassen", "Telepathie", "Feenschicht", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [68, 65, 65, 125, 115, 80]
+}

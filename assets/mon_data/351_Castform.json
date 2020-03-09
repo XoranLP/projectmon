@@ -1,0 +1,11 @@
+{
+	"dex_number": 351,
+	"german_name": "Formeo",
+	"english_name": "Castform",
+	"types": ["NORMAL"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY", "AMORPHOUS"],
+	"Stats": [70, 70, 70, 70, 70, 70]
+}

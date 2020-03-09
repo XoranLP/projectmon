@@ -1,0 +1,11 @@
+{
+	"dex_number": 150,
+	"german_name": "Mewtu",
+	"english_name": "Mewtwo",
+	"types": ["PSYCHIC"],
+	"Fähigkeiten": ["Erzwinger", "Anspannung", "Felsenfest", "(Mega X)", "Insomnia", "(Mega Y)"],
+	"Fangrate": 3,
+	"Start-Freundschaft": 0,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [106, 110, 90, 154, 90, 130]
+}

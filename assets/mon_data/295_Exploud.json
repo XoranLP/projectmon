@@ -1,0 +1,11 @@
+{
+	"dex_number": 295,
+	"german_name": "Krawumms",
+	"english_name": "Exploud",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Lärmschutz", "Rauflust"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [104, 91, 63, 91, 73, 68]
+}

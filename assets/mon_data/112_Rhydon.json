@@ -1,0 +1,11 @@
+{
+	"dex_number": 112,
+	"german_name": "Rizeros",
+	"english_name": "Rhydon",
+	"types": ["GROUND", "ROCK"],
+	"Fähigkeiten": ["Blitzfänger", "Steinhaupt", "Achtlos"],
+	"Fangrate": 60,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MONSTER", "FIELD"],
+	"Stats": [105, 130, 120, 45, 45, 40]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 421,
+	"german_name": "Kinoso",
+	"english_name": "Cherrim",
+	"types": ["GRASS"],
+	"Fähigkeiten": "",
+	"Fangrate": 75,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FAIRY", "PLANT"],
+	"Stats": [70, 60, 70, 87, 78, 85]
+}

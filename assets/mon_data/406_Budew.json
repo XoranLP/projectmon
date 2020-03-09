@@ -1,0 +1,11 @@
+{
+	"dex_number": 406,
+	"german_name": "Knospi",
+	"english_name": "Budew",
+	"types": ["GRASS", "POISON"],
+	"Fähigkeiten": ["Innere Kraft", "Giftdorn", "Floraschild"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [40, 30, 35, 50, 70, 55]
+}

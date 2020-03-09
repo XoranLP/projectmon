@@ -1,0 +1,11 @@
+{
+	"dex_number": 354,
+	"german_name": "Banette",
+	"english_name": "Banette",
+	"types": ["GHOST"],
+	"Fähigkeiten": ["Insomnia", "Schnüffler", "Tastfluch", "Strolch", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [64, 115, 65, 83, 63, 65]
+}

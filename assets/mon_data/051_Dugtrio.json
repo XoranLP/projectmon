@@ -1,0 +1,11 @@
+{
+	"dex_number": 51,
+	"german_name": "Digdri",
+	"english_name": "Dugtrio",
+	"types": ["GROUND"],
+	"Fähigkeiten": ["Sandschleier", "Ausweglos", "Sandgewalt", "Sandschleier", "(Alola)", "Lockenkopf", "(Alola)", "Sandgewalt", "(VF Alola)"],
+	"Fangrate": 50,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [35, 100, 50, 50, 70, 120]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 20,
+	"german_name": "Rattikarl",
+	"english_name": "Raticate",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Adrenalin", "Übereifer", "Völlerei", "(Alola)", "Übereifer", "(Alola)", "Speckschicht", "(VF Alola)"],
+	"Fangrate": 127,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [55, 81, 60, 50, 70, 97]
+}

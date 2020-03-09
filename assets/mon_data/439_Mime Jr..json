@@ -1,0 +1,11 @@
+{
+	"dex_number": 439,
+	"german_name": "Pantimimi",
+	"english_name": "Mime Jr.",
+	"types": ["PSYCHIC", "FAIRY"],
+	"Fähigkeiten": ["Lärmschutz", "Filter", "Techniker"],
+	"Fangrate": 145,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [20, 25, 45, 70, 90, 60]
+}

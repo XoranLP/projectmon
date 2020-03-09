@@ -1,0 +1,11 @@
+{
+	"dex_number": 190,
+	"german_name": "Griffel",
+	"english_name": "Aipom",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Angsthase", "Mitnahme", "Wertelink"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [55, 70, 55, 40, 55, 85]
+}

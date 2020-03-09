@@ -1,0 +1,11 @@
+{
+	"dex_number": 442,
+	"german_name": "Kryppuk",
+	"english_name": "Spiritomb",
+	"types": ["GHOST", "DARK"],
+	"Fähigkeiten": ["Erzwinger", "Schwebedurch"],
+	"Fangrate": 100,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [50, 92, 108, 92, 108, 35]
+}

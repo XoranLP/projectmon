@@ -1,0 +1,11 @@
+{
+	"dex_number": 458,
+	"german_name": "Mantirps",
+	"english_name": "Mantyke",
+	"types": ["WATER", "FLYING"],
+	"Fähigkeiten": ["Wassertempo", "H2O-Absorber", "Aquahülle"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [45, 20, 50, 60, 120, 50]
+}

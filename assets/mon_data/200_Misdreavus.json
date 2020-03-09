@@ -1,0 +1,11 @@
+{
+	"dex_number": 200,
+	"german_name": "Traunfugil",
+	"english_name": "Misdreavus",
+	"types": ["GHOST"],
+	"Fähigkeiten": "",
+	"Fangrate": 45,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["AMORPHOUS"],
+	"Stats": [60, 60, 60, 85, 85, 85]
+}

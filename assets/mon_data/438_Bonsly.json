@@ -1,0 +1,11 @@
+{
+	"dex_number": 438,
+	"german_name": "Mobai",
+	"english_name": "Bonsly",
+	"types": ["ROCK"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Hasenfuß"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [50, 80, 95, 10, 45, 10]
+}

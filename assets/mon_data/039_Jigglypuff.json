@@ -1,0 +1,11 @@
+{
+	"dex_number": 39,
+	"german_name": "Pummeluff",
+	"english_name": "Jigglypuff",
+	"types": ["NORMAL", "FAIRY"],
+	"Fähigkeiten": ["Charmebolzen", "Unbeugsamkeit", "Freundeshut"],
+	"Fangrate": 170,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FAIRY"],
+	"Stats": [115, 45, 20, 45, 25, 20]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 13,
+	"german_name": "Hornliu",
+	"english_name": "Weedle",
+	"types": ["BUG", "POISON"],
+	"Fähigkeiten": ["Puderabwehr", "Angsthase"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [40, 35, 30, 20, 20, 50]
+}

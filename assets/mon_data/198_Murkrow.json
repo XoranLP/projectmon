@@ -1,0 +1,11 @@
+{
+	"dex_number": 198,
+	"german_name": "Kramurx",
+	"english_name": "Murkrow",
+	"types": ["DARK", "FLYING"],
+	"Fähigkeiten": ["Insomnia", "Glückspilz", "Strolch"],
+	"Fangrate": 30,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["FLYING"],
+	"Stats": [60, 85, 42, 85, 42, 91]
+}

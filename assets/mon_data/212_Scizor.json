@@ -1,0 +1,11 @@
+{
+	"dex_number": 212,
+	"german_name": "Scherox",
+	"english_name": "Scizor",
+	"types": ["BUG", "STEEL"],
+	"Fähigkeiten": ["Hexaplaga", "Techniker", "Leichtmetall", "Techniker", "Mega"],
+	"Fangrate": 25,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [70, 130, 100, 55, 80, 65]
+}

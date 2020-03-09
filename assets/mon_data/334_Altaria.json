@@ -1,0 +1,11 @@
+{
+	"dex_number": 334,
+	"german_name": "Altaria",
+	"english_name": "Altaria",
+	"types": ["DRAGON", "FLYING"],
+	"Fähigkeiten": ["Innere Kraft", "Wolke Sieben", "Feenschicht", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FLYING", "DRAGON"],
+	"Stats": [75, 70, 90, 70, 105, 80]
+}

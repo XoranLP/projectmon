@@ -1,0 +1,11 @@
+{
+	"dex_number": 214,
+	"german_name": "Skaraborn",
+	"english_name": "Heracross",
+	"types": ["BUG", "FIGHTING"],
+	"Fähigkeiten": ["Hexaplaga", "Adrenalin", "Hochmut", "Wertelink", "Mega"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["BUG"],
+	"Stats": [80, 125, 75, 40, 95, 85]
+}

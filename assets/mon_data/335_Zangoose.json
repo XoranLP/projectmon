@@ -1,0 +1,11 @@
+{
+	"dex_number": 335,
+	"german_name": "Sengo",
+	"english_name": "Zangoose",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Immunität", "Giftwahn"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [73, 115, 60, 60, 60, 90]
+}

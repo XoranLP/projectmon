@@ -1,0 +1,11 @@
+{
+	"dex_number": 182,
+	"german_name": "Blubella",
+	"english_name": "Bellossom",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Chlorophyll", "Heilherz"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["PLANT"],
+	"Stats": [75, 80, 95, 90, 100, 50]
+}

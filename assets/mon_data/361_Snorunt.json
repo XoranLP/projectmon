@@ -1,0 +1,11 @@
+{
+	"dex_number": 361,
+	"german_name": "Schneppke",
+	"english_name": "Snorunt",
+	"types": ["ICE"],
+	"Fähigkeiten": ["Konzentrator", "Eishaut", "Gefühlswippe"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["MINERAL", "FAIRY"],
+	"Stats": [50, 50, 50, 50, 50, 50]
+}

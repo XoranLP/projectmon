@@ -1,0 +1,11 @@
+{
+	"dex_number": 154,
+	"german_name": "Meganie",
+	"english_name": "Meganium",
+	"types": ["GRASS"],
+	"Fähigkeiten": ["Notdünger", "Floraschild"],
+	"Fangrate": 45,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["MONSTER", "PLANT"],
+	"Stats": [80, 82, 100, 83, 100, 80]
+}

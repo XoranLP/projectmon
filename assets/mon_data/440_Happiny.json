@@ -1,0 +1,11 @@
+{
+	"dex_number": 440,
+	"german_name": "Wonneira",
+	"english_name": "Happiny",
+	"types": ["NORMAL"],
+	"Fähigkeiten": ["Innere Kraft", "Edelmut", "Freundeshut"],
+	"Fangrate": 130,
+	"Start-Freundschaft": 140,
+	"Ei-gruppe": ["UNKNOWN"],
+	"Stats": [100, 5, 5, 15, 65, 30]
+}

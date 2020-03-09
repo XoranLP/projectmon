@@ -1,0 +1,11 @@
+{
+	"dex_number": 37,
+	"german_name": "Vulpix",
+	"english_name": "Vulpix",
+	"types": ["FIRE"],
+	"Fähigkeiten": ["Feuerfänger", "Dürre", "Schneemantel", "(Alola)", "Hagelalarm", "(VF Alola)"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [38, 41, 40, 50, 65, 65]
+}

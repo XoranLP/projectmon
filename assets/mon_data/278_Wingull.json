@@ -1,0 +1,11 @@
+{
+	"dex_number": 278,
+	"german_name": "Wingull",
+	"english_name": "Wingull",
+	"types": ["WATER", "FLYING"],
+	"Fähigkeiten": ["Adlerauge", "Hydration ", "(ab 7. Gen.)", "Regengenuss"],
+	"Fangrate": 190,
+	"Start-Freundschaft": 50,
+	"Ei-gruppe": ["FLYING", "WATER1"],
+	"Stats": [40, 30, 30, 55, 30, 85]
+}

@@ -1,0 +1,11 @@
+{
+	"dex_number": 305,
+	"german_name": "Stollrak",
+	"english_name": "Lairon",
+	"types": ["STEEL", "ROCK"],
+	"Fähigkeiten": ["Robustheit", "Steinhaupt", "Schwermetall"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 35,
+	"Ei-gruppe": ["MONSTER"],
+	"Stats": [60, 90, 140, 50, 50, 40]
+}

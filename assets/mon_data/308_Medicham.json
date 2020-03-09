@@ -1,0 +1,11 @@
+{
+	"dex_number": 308,
+	"german_name": "Meditalis",
+	"english_name": "Medicham",
+	"types": ["FIGHTING", "PSYCHIC"],
+	"Fähigkeiten": ["Mentalkraft", "Telepathie", "Mentalkraft", "Mega"],
+	"Fangrate": 90,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["HUMANOID"],
+	"Stats": [60, 60, 75, 60, 75, 80]
+}

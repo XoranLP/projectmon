@@ -1,0 +1,11 @@
+{
+	"dex_number": 261,
+	"german_name": "Fiffyen",
+	"english_name": "Poochyena",
+	"types": ["DARK"],
+	"Fähigkeiten": ["Angsthase", "Rasanz", "Hasenfuß"],
+	"Fangrate": 255,
+	"Start-Freundschaft": 70,
+	"Ei-gruppe": ["FIELD"],
+	"Stats": [35, 55, 35, 30, 30, 35]
+}
