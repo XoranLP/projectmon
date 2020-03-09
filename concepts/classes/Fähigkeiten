@@ -1,0 +1,14 @@
+public class abilities extend global{
+public abilities[] = {all attacks}
+
+private class standard{
+  change_in();
+  attacked();
+  on_death();
+  end_of_round();
+}
+
+private class <ability> extends standard {}
+@override
+<function>
+}

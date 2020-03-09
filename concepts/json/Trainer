@@ -1,0 +1,14 @@
+extends NPC {
+Defeated: boolean
+Skill_lvl: int
+
+Interactions: {
+	Challeng_Line: String
+	In_Fight_Line: String
+	Winning_Line: String
+	Loosing_Line: String
+	}
+
+Team: Pokemon[6]
+Award: int
+}

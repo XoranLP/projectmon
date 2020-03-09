@@ -1,0 +1,11 @@
+{
+  Name: String
+  Type: NPC | Trainer | Item
+  Skin: Path
+  Facing: 'u' | 'd' | 'l' | 'r'
+
+  Event: String[]
+  Dialog: String
+
+  Movement_pattern: String?
+}

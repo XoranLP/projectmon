@@ -1,0 +1,33 @@
+public class pokemon {
+  String name; get(); set();
+  byte sex; get();
+  Picture icons[] = new Picture[2]; get();
+  String englishName; get();
+  String germanName; get();
+  Enum "wesen";
+  Enum EggGroup[] = new Enum[2];
+
+// ["KP", "Atk", "Def", "Sp-Atk", "Sp-Def", "Init"]
+  short baseStats[] = new short[6] get();
+  short DV[] = new short[6] get();
+  short FP[] = new short[6] get(); set();
+  byte energy; get();
+
+// fight Relevant
+  short KP; get(); set();
+  short statFactors[] = new short[6] get(); set();
+  Enum primaryStatusEffect; get(); set();
+  List<Enum> secundaryStatusEffect; get(); add();
+
+  int catchRate; get();
+  int friendship; get(); set();
+  byte level; get(); set();
+  int xp; get(); set();
+
+  Ability ability;
+  Attack attacks[] = new Attack[4]
+
+  public void Pokemon(String json) {}
+  public void Pokemon(File file) {}
+  private level_up()
+}
