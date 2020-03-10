@@ -7,6 +7,7 @@ Interactions: {
 	In_Fight_Line: String
 	Winning_Line: String
 	Loosing_Line: String
+	Post_Battle_Line: String
 	}
 
 Team: Pokemon[6]
